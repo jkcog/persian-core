@@ -5,12 +5,16 @@
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
   "exports": {
     ".": {
       "import": "./dist/index.js"
     }
   },
   "scripts": {
+    "prepare": "tsup",
     "build": "tsup",
     "lint": "eslint .",
     "test": "vitest",
