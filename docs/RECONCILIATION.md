@@ -81,3 +81,14 @@ identical `'o'`. Fixed by giving و an honest short/long ambiguity (same
 shape as ا's existing short-carrier-vs-long-ā ambiguity) instead of a
 blanket rule — `toMacron` now flags `ambiguous: true` for a bare `'o'`
 rather than confidently guessing long.
+
+Widening that ambiguity check surfaced three of noghteh's own words as
+newly ambiguous too (not just harf-bezan's) — خورشید "Khorshīd" (sun), دو
+"Do" (two), and دوشنبه "Doshanbeh" (Monday) — so "noghteh's own data never
+needs this" turned out to be wrong as well. (An earlier pass of the fix
+also wrongly flagged 9 more ع/ا-initial words from a separate bug in the
+same change — a cosmetic tie between a word-initial carrier reading and a
+silent-plus-generic-slot reading that always render identically; fixed
+before this review, see the commit history.) The author confirmed all
+three are genuinely short: `khorshīd`, `do`, `doshanbeh` — added to
+`reconciled-entries.mjs`, `reviewed: true`, same basis as بخورم/چون above.

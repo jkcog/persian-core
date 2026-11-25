@@ -8,7 +8,7 @@
 // `flag` (optional) explains why an entry still needs native review, for
 // scripts/build-seed.mjs to carry into src/lexicon/seed.notes.md.
 
-export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'دروغ', 'چون', 'و'];
+export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه'];
 
 export const RECONCILED_ENTRIES = [
   // --- homographs (docs/RECONCILIATION.md "Homographs") ---
@@ -154,5 +154,34 @@ export const RECONCILED_ENTRIES = [
     gloss: 'and',
     reviewed: false,
     sources: { harfBezan: 'l06-29' },
+  },
+  // --- و short/long corrections, found by harf-bezan's lexicon-audit tool
+  // widening alignVowels's و ambiguity (2026-11-25, see RECONCILIATION.md) ---
+  {
+    persian: 'خورشید',
+    canonical: 'khorshīd',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'sun',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 43 },
+  },
+  {
+    persian: 'دو',
+    canonical: 'do',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'two',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 217 },
+  },
+  {
+    persian: 'دوشنبه',
+    canonical: 'doshanbeh',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'Monday',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 279 },
   },
 ];
