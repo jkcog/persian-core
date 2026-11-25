@@ -20,7 +20,7 @@ for now") — the guess is mine, unverified, and the flag stays.
 
 | Persian | Forms | Proposed entries | Confidence |
 |---|---|---|---|
-| بره | noghteh=Barreh (lamb) · harf-bezan=bere ("goes") · finglish-subs=bareh ("goes") | 1) noun "lamb" → canonical `barreh` (register n/a, doubled ر from shadda). 2) verb "(that) he/she goes", subjunctive 3sg of raftan → canonical **`bere`** (Author decision). | High on the homograph split. Verb form: harf-bezan's own paradigm is consistently e-final for this ending (boro/beram/berim/**bere**/berid — see `harf-bezan/lessons/l02.json:692`), and it matches the برم decision below (beram over baram), so `bere` over `bareh` is the internally-consistent pick. finglish-subs' `bareh` is the one to treat as the spelling bug. |
+| بره | noghteh=Barreh (lamb) · harf-bezan=bere ("goes") · finglish-subs=bareh ("goes") | 1) noun "lamb" → canonical `barreh` (register n/a, doubled ر from shadda). 2) verb "(that) he/she goes", subjunctive 3sg of raftan → canonical **`bereh`** (Author decision; corrected from an earlier `bere` to apply `SPEC.md` §1's final-ه-is-always-`-eh` rule consistently — caught by `toMacron`'s own output while building the Phase 2 seed). | High on the homograph split. Verb form: harf-bezan's own paradigm is consistently e-final for this ending (boro/beram/berim/**bere**/berid — see `harf-bezan/lessons/l02.json:692`), and it matches the برم decision below (beram over baram), so `bereh` over `bareh` is the internally-consistent pick. finglish-subs' `bareh` is the one to treat as the spelling bug. |
 | رود | noghteh=Rūd (river) · finglish-subs=ravad ("goes") | 1) noun "river" → canonical `rūd`. 2) verb "goes", 3sg present formal of raftan (consistent with finglish-subs' own `rūm`/`ravam` "I go" pattern). | High. |
 | نه | noghteh=Noh (nine) · harf-bezan=na ("no") · finglish-subs=na ("no") | 1) number "nine" → canonical `noh`. 2) particle "no" → canonical `na`. harf-bezan and finglish-subs already agree on the "no" spelling. | High. |
 
@@ -33,7 +33,7 @@ for now") — the guess is mine, unverified, and the flag stays.
 | برم ((that) I go) | harf-bezan=beram · finglish-subs=baram | `beram` (Author decision — proceed) | finglish-subs | Medium-high — harf-bezan's own subjunctive paradigm for this verb is consistently e-stem (بره=bere, بریم=berim, بری=beri would follow); finglish-subs' "baram" is the outlier. |
 | بخورم ((that) I eat) | harf-bezan=bokhoram · finglish-subs=bekhoram | `bokhoram` (Author decision) | finglish-subs | Author's own native intuition settles this one — "bokhoram feels correct." Also consistent with be-/bo- being an allomorph that surfaces as bo- before this stem (bokhor-, boro-, vs. bekon-, bezan- elsewhere); `bekhoram` is the one to drop. |
 | دروغ (lie) | noghteh=Dorūgh · finglish-subs=dorogh | Best guess: **`dorūgh`** (long ū) — **needs native review** | finglish-subs (tentatively) | Low-medium. دروغ is widely said with a long vowel (dorūgh/"doroogh"), matching noghteh; finglish-subs' short "dorogh" is my tentative pick for the error, but I'm not confident enough to mark this reviewed. |
-| چون (because) | harf-bezan=chon · finglish-subs=choon | Best guess: **`chon`** (short o) — **needs native review** | finglish-subs (tentatively) | Low-medium. چون is commonly said with a short vowel ("chon"), matching harf-bezan; finglish-subs' doubled "choon" implies a long vowel I don't think is there, but this isn't verified. |
+| چون (because) | harf-bezan=chon · finglish-subs=choon | Revised best guess: **`chūn`** (long ū) — **needs native review** | neither — see note | Low-medium on the *vowel length itself* (that's the native-review question), but high confidence this was never a cross-repo disagreement at all: `toMacron` (`src/translit/macron.js`) converts both `chon` and `choon` to the identical `chūn`, discovered while building the Phase 2 seed. harf-bezan and finglish-subs just used different ASCII spellings of the same long vowel — this word would sit in the "style only" table below if I were redoing the audit's classification today. |
 | و (and) | harf-bezan=o (colloquial) · finglish-subs=va (formal) | both, as a register pair | — | Not a bug — see `SPEC.md` §2. This is the canonical example of the register field: `o` is `register: "colloquial"`, `va` is `register: "formal"`, same lemma. |
 
 ## Style only, not a bug (already covered by `SPEC.md`'s canonical/ASCII rules)
@@ -54,10 +54,10 @@ explained by one of the conventions §1 of `SPEC.md` settles:
 
 - 3 homographs, cleanly separated by gloss (high confidence on the split).
 - 1 of those 3 had a nested real spelling disagreement (بره's verb sense) —
-  resolved by the author to `bere`.
+  resolved by the author to `bereh`.
 - 4 settled by author decision, ready for Phase 2 (چشم, غذا, برم, بخورم).
 - 2 flagged `needs native review`, with a best guess to use meanwhile
-  (دروغ → `dorūgh`, چون → `chon`).
+  (دروغ → `dorūgh`, چون → `chūn`).
 - 1 genuine register pair, not a bug (و).
 - 5 explained entirely by canonical/ASCII conventions already in `SPEC.md`.
 

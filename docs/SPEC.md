@@ -122,7 +122,7 @@ type LexiconEntry = {
   gloss: string;            // short English gloss
   parts?: {                 // optional morpheme breakdown, harf-bezan's shape
     fin: string;
-    role: "prefix" | "stem" | "ending" | "neg";
+    role: "prefix" | "stem" | "ending" | "neg" | "plain";
     gloss: string;
   }[];
   reviewed: boolean;        // true only after native-speaker review

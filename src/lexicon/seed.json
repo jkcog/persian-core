@@ -1,0 +1,7069 @@
+[
+  {
+    "persian": "آب",
+    "canonical": "āb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "water",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 12
+    }
+  },
+  {
+    "persian": "آبی",
+    "canonical": "ābī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "blue",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 230
+    }
+  },
+  {
+    "persian": "آتش",
+    "canonical": "ātash",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fire",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 212
+    }
+  },
+  {
+    "persian": "آخر",
+    "canonical": "akhar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "last/end",
+    "reviewed": false
+  },
+  {
+    "persian": "آخرین",
+    "canonical": "akharin",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "last",
+    "reviewed": false
+  },
+  {
+    "persian": "آدم",
+    "canonical": "adam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "person/man",
+    "reviewed": false
+  },
+  {
+    "persian": "آره",
+    "canonical": "āreh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "yes",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-05"
+    }
+  },
+  {
+    "persian": "آسمان",
+    "canonical": "āsemān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sky",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 201
+    }
+  },
+  {
+    "persian": "آفتاب",
+    "canonical": "āftāb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sunshine",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 40
+    }
+  },
+  {
+    "persian": "آقا",
+    "canonical": "agha",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "mister/sir",
+    "reviewed": false
+  },
+  {
+    "persian": "آقای",
+    "canonical": "aghaye",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "Mr.",
+    "reviewed": false
+  },
+  {
+    "persian": "آمد",
+    "canonical": "amad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "came",
+    "reviewed": false
+  },
+  {
+    "persian": "آمدم",
+    "canonical": "amadam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I came",
+    "reviewed": false
+  },
+  {
+    "persian": "آمدن",
+    "canonical": "amadan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to come",
+    "reviewed": false
+  },
+  {
+    "persian": "آن",
+    "canonical": "an",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "that",
+    "reviewed": false
+  },
+  {
+    "persian": "آنجا",
+    "canonical": "anja",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "there",
+    "reviewed": false
+  },
+  {
+    "persian": "آنها",
+    "canonical": "anha",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they",
+    "reviewed": false
+  },
+  {
+    "persian": "آینه",
+    "canonical": "āyeneh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mirror",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 164
+    }
+  },
+  {
+    "persian": "ابر",
+    "canonical": "abr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cloud",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 199
+    }
+  },
+  {
+    "persian": "ابرو",
+    "canonical": "abrū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "eyebrow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 189
+    }
+  },
+  {
+    "persian": "اتاق",
+    "canonical": "otāgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "room",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 170
+    }
+  },
+  {
+    "persian": "از",
+    "canonical": "az",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "from/of",
+    "reviewed": false
+  },
+  {
+    "persian": "اسب",
+    "canonical": "asb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "horse",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 9
+    }
+  },
+  {
+    "persian": "است",
+    "canonical": "ast",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "is",
+    "reviewed": false
+  },
+  {
+    "persian": "اسم",
+    "canonical": "esm",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "name",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 71
+    }
+  },
+  {
+    "persian": "اگر",
+    "canonical": "agar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "if",
+    "reviewed": false
+  },
+  {
+    "persian": "اگه",
+    "canonical": "ageh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "if",
+    "reviewed": false
+  },
+  {
+    "persian": "الان",
+    "canonical": "alān",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "right now",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l03-22"
+    }
+  },
+  {
+    "persian": "البته",
+    "canonical": "albateh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "of course",
+    "reviewed": false
+  },
+  {
+    "persian": "اما",
+    "canonical": "amma",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "but",
+    "reviewed": false
+  },
+  {
+    "persian": "امروز",
+    "canonical": "emrūz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "today",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 72,
+      "harfBezan": "l03-30"
+    }
+  },
+  {
+    "persian": "امشب",
+    "canonical": "emshab",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "tonight",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l03-32"
+    }
+  },
+  {
+    "persian": "امید",
+    "canonical": "omīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "hope",
+    "reviewed": false
+  },
+  {
+    "persian": "انار",
+    "canonical": "anār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pomegranate",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 121
+    }
+  },
+  {
+    "persian": "انجیر",
+    "canonical": "anjīr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fig",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 55
+    }
+  },
+  {
+    "persian": "انگشت",
+    "canonical": "angosht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "finger",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 184
+    }
+  },
+  {
+    "persian": "انگشتر",
+    "canonical": "angoshtar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ring",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 174
+    }
+  },
+  {
+    "persian": "انگلیسی",
+    "canonical": "engelīsī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "English",
+    "reviewed": false
+  },
+  {
+    "persian": "انگور",
+    "canonical": "angūr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "grape",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 122
+    }
+  },
+  {
+    "persian": "او",
+    "canonical": "ū",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "he/she",
+    "reviewed": false
+  },
+  {
+    "persian": "اول",
+    "canonical": "avval",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "first",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 267
+    }
+  },
+  {
+    "persian": "اولین",
+    "canonical": "avalīn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "first",
+    "reviewed": false
+  },
+  {
+    "persian": "اومد",
+    "canonical": "ūmad",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "came",
+    "reviewed": false
+  },
+  {
+    "persian": "اومدم",
+    "canonical": "ūmadam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I came",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "omad",
+        "role": "stem",
+        "gloss": "came (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-18"
+    }
+  },
+  {
+    "persian": "اومدن",
+    "canonical": "ūmadan",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "to come",
+    "reviewed": false
+  },
+  {
+    "persian": "اومدی",
+    "canonical": "ūmadī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you came",
+    "reviewed": false
+  },
+  {
+    "persian": "اومدیم",
+    "canonical": "ūmadīm",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "came (past stem) + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "omad",
+        "role": "stem",
+        "gloss": "came (past stem)"
+      },
+      {
+        "fin": "im",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-27"
+    }
+  },
+  {
+    "persian": "اون",
+    "canonical": "ūn",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "that",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "un",
+        "role": "plain",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-27"
+    }
+  },
+  {
+    "persian": "اونا",
+    "canonical": "oona",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "they",
+    "reviewed": false
+  },
+  {
+    "persian": "اونجا",
+    "canonical": "ūnjā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "there",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l01-16"
+    }
+  },
+  {
+    "persian": "اونها",
+    "canonical": "oonha",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "they",
+    "reviewed": false
+  },
+  {
+    "persian": "ایران",
+    "canonical": "īrān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Iran",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 75
+    }
+  },
+  {
+    "persian": "ایشان",
+    "canonical": "ishan",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "he/she(formal)",
+    "reviewed": false
+  },
+  {
+    "persian": "این",
+    "canonical": "īn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "this",
+    "reviewed": false
+  },
+  {
+    "persian": "اینجا",
+    "canonical": "īnjā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "here",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l01-15"
+    }
+  },
+  {
+    "persian": "اینکه",
+    "canonical": "īnkeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "the fact that",
+    "reviewed": false
+  },
+  {
+    "persian": "اینها",
+    "canonical": "inha",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "these",
+    "reviewed": false
+  },
+  {
+    "persian": "با",
+    "canonical": "ba",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "with",
+    "reviewed": false
+  },
+  {
+    "persian": "بابا",
+    "canonical": "bābā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dad",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 1
+    }
+  },
+  {
+    "persian": "باد",
+    "canonical": "bād",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "wind",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 200
+    }
+  },
+  {
+    "persian": "بادام",
+    "canonical": "bādām",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "almond",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 25
+    }
+  },
+  {
+    "persian": "باران",
+    "canonical": "bārān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "rain",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 20
+    }
+  },
+  {
+    "persian": "باز",
+    "canonical": "baz",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "again/open",
+    "reviewed": false
+  },
+  {
+    "persian": "بازم",
+    "canonical": "bazam",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "again",
+    "reviewed": false
+  },
+  {
+    "persian": "بازو",
+    "canonical": "bāzū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "arm",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 190
+    }
+  },
+  {
+    "persian": "باش",
+    "canonical": "bash",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "be!",
+    "reviewed": false
+  },
+  {
+    "persian": "باشد",
+    "canonical": "bashad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باشم",
+    "canonical": "basham",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باشند",
+    "canonical": "bashand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باشه",
+    "canonical": "basheh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "okay/may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باشی",
+    "canonical": "bashi",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باشید",
+    "canonical": "bashid",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you (pl.) may be",
+    "reviewed": false
+  },
+  {
+    "persian": "باغ",
+    "canonical": "bāgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "garden",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 194
+    }
+  },
+  {
+    "persian": "بالا",
+    "canonical": "bala",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "up/above",
+    "reviewed": false
+  },
+  {
+    "persian": "باید",
+    "canonical": "bāyad",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "must/should",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bāyad",
+        "role": "stem",
+        "gloss": "must / have to"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l06-01"
+    }
+  },
+  {
+    "persian": "ببخشید",
+    "canonical": "bebakhshīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "excuse me/sorry",
+    "reviewed": false
+  },
+  {
+    "persian": "ببر",
+    "canonical": "babr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tiger",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 137
+    }
+  },
+  {
+    "persian": "ببین",
+    "canonical": "bebīn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "look!/see!",
+    "reviewed": false
+  },
+  {
+    "persian": "ببینم",
+    "canonical": "bebīnam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) I see",
+    "reviewed": false
+  },
+  {
+    "persian": "بچه",
+    "canonical": "bacheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "child",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 66
+    }
+  },
+  {
+    "persian": "بخور",
+    "canonical": "bekhūr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "eat!",
+    "reviewed": false
+  },
+  {
+    "persian": "بخورم",
+    "canonical": "bokhoram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) I eat",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bo",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-32"
+    }
+  },
+  {
+    "persian": "بخورن",
+    "canonical": "bokhūran",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + eat + they",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bo",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "an",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-35"
+    }
+  },
+  {
+    "persian": "بخوره",
+    "canonical": "bokhūreh",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + eat + he/she",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bo",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "e",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-23"
+    }
+  },
+  {
+    "persian": "بخوری",
+    "canonical": "bokhūrī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) you eat",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bo",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-10"
+    }
+  },
+  {
+    "persian": "بخوریم",
+    "canonical": "bokhūrīm",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + eat + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bo",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "im",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-32"
+    }
+  },
+  {
+    "persian": "بد",
+    "canonical": "bad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "bad",
+    "reviewed": false
+  },
+  {
+    "persian": "بدم",
+    "canonical": "bedam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) I give",
+    "reviewed": false
+  },
+  {
+    "persian": "بده",
+    "canonical": "bedeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "give!",
+    "reviewed": false
+  },
+  {
+    "persian": "بدون",
+    "canonical": "bedūn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "without",
+    "reviewed": false
+  },
+  {
+    "persian": "بدی",
+    "canonical": "bedī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) you give",
+    "reviewed": false
+  },
+  {
+    "persian": "بر",
+    "canonical": "bar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "on/upon",
+    "reviewed": false
+  },
+  {
+    "persian": "برادر",
+    "canonical": "barādar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "brother",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 69
+    }
+  },
+  {
+    "persian": "برای",
+    "canonical": "baraye",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "for",
+    "reviewed": false
+  },
+  {
+    "persian": "برف",
+    "canonical": "barf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "snow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 14
+    }
+  },
+  {
+    "persian": "برگ",
+    "canonical": "barg",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "leaf",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 211
+    }
+  },
+  {
+    "persian": "برم",
+    "canonical": "beram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) I go",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-04"
+    }
+  },
+  {
+    "persian": "برن",
+    "canonical": "beran",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + go + they",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "an",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-36"
+    }
+  },
+  {
+    "persian": "برنج",
+    "canonical": "berenj",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "rice",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 47
+    }
+  },
+  {
+    "persian": "بره",
+    "canonical": "barreh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lamb",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 144
+    }
+  },
+  {
+    "persian": "بره",
+    "canonical": "bereh",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) he/she goes",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "e",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-17"
+    }
+  },
+  {
+    "persian": "برو",
+    "canonical": "borū",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "go!",
+    "reviewed": false
+  },
+  {
+    "persian": "بری",
+    "canonical": "berī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) you go",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-05"
+    }
+  },
+  {
+    "persian": "برید",
+    "canonical": "berīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "go!(pl.)",
+    "reviewed": false
+  },
+  {
+    "persian": "بریم",
+    "canonical": "berīm",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "let's go",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "im",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-28"
+    }
+  },
+  {
+    "persian": "برین",
+    "canonical": "berīn",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + go + you all",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "be",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "in",
+        "role": "ending",
+        "gloss": "you all"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-33"
+    }
+  },
+  {
+    "persian": "بز",
+    "canonical": "boz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "goat",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 127
+    }
+  },
+  {
+    "persian": "بزرگ",
+    "canonical": "bozorg",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "big",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 86
+    }
+  },
+  {
+    "persian": "بسیار",
+    "canonical": "besyar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "very",
+    "reviewed": false
+  },
+  {
+    "persian": "بشم",
+    "canonical": "besham",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) I become",
+    "reviewed": false
+  },
+  {
+    "persian": "بشه",
+    "canonical": "besheh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) it becomes",
+    "reviewed": false
+  },
+  {
+    "persian": "بشود",
+    "canonical": "beshavad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) it becomes",
+    "reviewed": false
+  },
+  {
+    "persian": "بعد",
+    "canonical": "ba'd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "after",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 259
+    }
+  },
+  {
+    "persian": "بگم",
+    "canonical": "begam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) I say",
+    "reviewed": false
+  },
+  {
+    "persian": "بگو",
+    "canonical": "begū",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "say!/tell!",
+    "reviewed": false
+  },
+  {
+    "persian": "بگی",
+    "canonical": "begī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) you say",
+    "reviewed": false
+  },
+  {
+    "persian": "بگیر",
+    "canonical": "begīr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "take!",
+    "reviewed": false
+  },
+  {
+    "persian": "بگیرم",
+    "canonical": "begīram",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(that) I take",
+    "reviewed": false
+  },
+  {
+    "persian": "بله",
+    "canonical": "baleh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "yes",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 65
+    }
+  },
+  {
+    "persian": "بنفش",
+    "canonical": "banafsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "purple",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 232
+    }
+  },
+  {
+    "persian": "به",
+    "canonical": "beh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "to/at",
+    "reviewed": false
+  },
+  {
+    "persian": "بهار",
+    "canonical": "bahār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "spring",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 205
+    }
+  },
+  {
+    "persian": "بهتر",
+    "canonical": "behtar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "better",
+    "reviewed": false
+  },
+  {
+    "persian": "بهترین",
+    "canonical": "behtarīn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "best",
+    "reviewed": false
+  },
+  {
+    "persian": "بود",
+    "canonical": "būd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "was",
+    "reviewed": false
+  },
+  {
+    "persian": "بودم",
+    "canonical": "būdam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I was",
+    "reviewed": false
+  },
+  {
+    "persian": "بودن",
+    "canonical": "būdan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to be/being",
+    "reviewed": false
+  },
+  {
+    "persian": "بودند",
+    "canonical": "būdand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they were",
+    "reviewed": false
+  },
+  {
+    "persian": "بوده",
+    "canonical": "būdeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "has been",
+    "reviewed": false
+  },
+  {
+    "persian": "بودی",
+    "canonical": "būdī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you were",
+    "reviewed": false
+  },
+  {
+    "persian": "بودیم",
+    "canonical": "būdīm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we were",
+    "reviewed": false
+  },
+  {
+    "persian": "بی",
+    "canonical": "bī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "without/un-",
+    "reviewed": false
+  },
+  {
+    "persian": "بیا",
+    "canonical": "biya",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "come!",
+    "reviewed": false
+  },
+  {
+    "persian": "بیاد",
+    "canonical": "biyād",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) he/she comes",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "d",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-20"
+    }
+  },
+  {
+    "persian": "بیام",
+    "canonical": "biyām",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "(that) I come",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "m",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l01-09"
+    }
+  },
+  {
+    "persian": "بیان",
+    "canonical": "biyān",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + come + they",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "n",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-37"
+    }
+  },
+  {
+    "persian": "بیای",
+    "canonical": "biyāy",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + come + you",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "y",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-22"
+    }
+  },
+  {
+    "persian": "بیایم",
+    "canonical": "biyāym",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + come + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "ym",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l06-40"
+    }
+  },
+  {
+    "persian": "بیاین",
+    "canonical": "biyāyn",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "'to' (subjunctive) + come + you all",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "bi",
+        "role": "prefix",
+        "gloss": "'to' (subjunctive)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "yn",
+        "role": "ending",
+        "gloss": "you all"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-34"
+    }
+  },
+  {
+    "persian": "بیایید",
+    "canonical": "biyayid",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "come!(pl.)",
+    "reviewed": false
+  },
+  {
+    "persian": "بیست",
+    "canonical": "bīst",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "twenty",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 35
+    }
+  },
+  {
+    "persian": "بیشتر",
+    "canonical": "bīshtar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "more",
+    "reviewed": false
+  },
+  {
+    "persian": "بین",
+    "canonical": "beyn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "between",
+    "reviewed": false
+  },
+  {
+    "persian": "بینم",
+    "canonical": "bīnam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I see",
+    "reviewed": false
+  },
+  {
+    "persian": "بینی",
+    "canonical": "bīnī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "nose",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 5
+    }
+  },
+  {
+    "persian": "پا",
+    "canonical": "pā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "foot",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 3
+    }
+  },
+  {
+    "persian": "پاک",
+    "canonical": "pāk",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "clean",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 264
+    }
+  },
+  {
+    "persian": "پاییز",
+    "canonical": "pāyīz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "autumn",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 206
+    }
+  },
+  {
+    "persian": "پایین",
+    "canonical": "paeen",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "down/below",
+    "reviewed": false
+  },
+  {
+    "persian": "پتو",
+    "canonical": "patū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "blanket",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 165
+    }
+  },
+  {
+    "persian": "پدر",
+    "canonical": "pedar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "father",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 62
+    }
+  },
+  {
+    "persian": "پرده",
+    "canonical": "pardeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "curtain",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 163
+    }
+  },
+  {
+    "persian": "پرنده",
+    "canonical": "parandeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bird",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 129
+    }
+  },
+  {
+    "persian": "پروانه",
+    "canonical": "parvāneh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "butterfly",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 139
+    }
+  },
+  {
+    "persian": "پسته",
+    "canonical": "pesteh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pistachio",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 52
+    }
+  },
+  {
+    "persian": "پسر",
+    "canonical": "pesar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "boy",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 13
+    }
+  },
+  {
+    "persian": "پشت",
+    "canonical": "posht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "back",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 187
+    }
+  },
+  {
+    "persian": "پلنگ",
+    "canonical": "palang",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "leopard",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 143
+    }
+  },
+  {
+    "persian": "پنج",
+    "canonical": "panj",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "five",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 220
+    }
+  },
+  {
+    "persian": "پنجره",
+    "canonical": "panjereh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "window",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 31
+    }
+  },
+  {
+    "persian": "پنجشنبه",
+    "canonical": "panjshanbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Thursday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 280
+    }
+  },
+  {
+    "persian": "پنچر",
+    "canonical": "panchar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "flat tyre",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 242
+    }
+  },
+  {
+    "persian": "پنیر",
+    "canonical": "panīr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cheese",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 19
+    }
+  },
+  {
+    "persian": "پول",
+    "canonical": "pūl",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "money",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 50
+    }
+  },
+  {
+    "persian": "پیاز",
+    "canonical": "piyāz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "onion",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 109
+    }
+  },
+  {
+    "persian": "پیچ",
+    "canonical": "pīch",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "screw",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 239
+    }
+  },
+  {
+    "persian": "تا",
+    "canonical": "ta",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "until/to",
+    "reviewed": false
+  },
+  {
+    "persian": "تابستان",
+    "canonical": "tābestān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "summer",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 41
+    }
+  },
+  {
+    "persian": "تاج",
+    "canonical": "tāj",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "crown",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 237
+    }
+  },
+  {
+    "persian": "تاریخ",
+    "canonical": "tārīkh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "history",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 270
+    }
+  },
+  {
+    "persian": "تبلیغ",
+    "canonical": "tablīgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "advertisement",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 257
+    }
+  },
+  {
+    "persian": "تخت",
+    "canonical": "takht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bed",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 161
+    }
+  },
+  {
+    "persian": "تلفن",
+    "canonical": "telefon",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "telephone",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 155
+    }
+  },
+  {
+    "persian": "تمیز",
+    "canonical": "tamīz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "clean",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 82
+    }
+  },
+  {
+    "persian": "تو",
+    "canonical": "tū",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "you(sg.)",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "to",
+        "role": "plain",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-27"
+    }
+  },
+  {
+    "persian": "توانم",
+    "canonical": "tavanam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I can",
+    "reviewed": false
+  },
+  {
+    "persian": "توپ",
+    "canonical": "tūp",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ball",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 7
+    }
+  },
+  {
+    "persian": "توت",
+    "canonical": "tūt",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "berry",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 2
+    }
+  },
+  {
+    "persian": "تونم",
+    "canonical": "tūnam",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "I can",
+    "reviewed": false
+  },
+  {
+    "persian": "تونه",
+    "canonical": "tūneh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "can",
+    "reviewed": false
+  },
+  {
+    "persian": "تونی",
+    "canonical": "tūnī",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "you can",
+    "reviewed": false
+  },
+  {
+    "persian": "توی",
+    "canonical": "tooye",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "inside",
+    "reviewed": false
+  },
+  {
+    "persian": "ثانیه",
+    "canonical": "sāniyeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "second",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 92
+    }
+  },
+  {
+    "persian": "جا",
+    "canonical": "ja",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "place",
+    "reviewed": false
+  },
+  {
+    "persian": "جان",
+    "canonical": "jan",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "life/dear",
+    "reviewed": false
+  },
+  {
+    "persian": "جای",
+    "canonical": "jāy",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "place",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 266
+    }
+  },
+  {
+    "persian": "جدید",
+    "canonical": "jadīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "new",
+    "reviewed": false
+  },
+  {
+    "persian": "جلو",
+    "canonical": "jelū",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "front/ahead",
+    "reviewed": false
+  },
+  {
+    "persian": "جمعه",
+    "canonical": "jom'eh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Friday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 281
+    }
+  },
+  {
+    "persian": "جنگل",
+    "canonical": "jangal",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "forest",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 203
+    }
+  },
+  {
+    "persian": "جواب",
+    "canonical": "javab",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "answer",
+    "reviewed": false
+  },
+  {
+    "persian": "جوجه",
+    "canonical": "jūjeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "chicken",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 22
+    }
+  },
+  {
+    "persian": "چاقو",
+    "canonical": "chāghū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "knife",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 153
+    }
+  },
+  {
+    "persian": "چای",
+    "canonical": "chāy",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tea",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 16
+    }
+  },
+  {
+    "persian": "چپ",
+    "canonical": "chap",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "left",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 244
+    }
+  },
+  {
+    "persian": "چتر",
+    "canonical": "chatr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "umbrella",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 49
+    }
+  },
+  {
+    "persian": "چرا",
+    "canonical": "cherā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "why",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-20"
+    }
+  },
+  {
+    "persian": "چراغ",
+    "canonical": "cherāgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lamp",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 145
+    }
+  },
+  {
+    "persian": "چشم",
+    "canonical": "cheshm",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "eye",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 36
+    }
+  },
+  {
+    "persian": "چطور",
+    "canonical": "chetūr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "how",
+    "reviewed": false
+  },
+  {
+    "persian": "چقدر",
+    "canonical": "cheghadr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "how much",
+    "reviewed": false
+  },
+  {
+    "persian": "چگونه",
+    "canonical": "chegūneh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "how",
+    "reviewed": false
+  },
+  {
+    "persian": "چمدان",
+    "canonical": "chamedān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "suitcase",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 154
+    }
+  },
+  {
+    "persian": "چند",
+    "canonical": "chand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "how many/several",
+    "reviewed": false
+  },
+  {
+    "persian": "چه",
+    "canonical": "cheh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "what",
+    "reviewed": false
+  },
+  {
+    "persian": "چهار",
+    "canonical": "chahār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "four",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 219
+    }
+  },
+  {
+    "persian": "چهارشنبه",
+    "canonical": "chahārshanbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Wednesday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 44
+    }
+  },
+  {
+    "persian": "چون",
+    "canonical": "chūn",
+    "register": "colloquial",
+    "pos": "conjunction",
+    "gloss": "because",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l06-21"
+    }
+  },
+  {
+    "persian": "چی",
+    "canonical": "chī",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "what",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-15"
+    }
+  },
+  {
+    "persian": "چیز",
+    "canonical": "chīz",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "thing",
+    "reviewed": false
+  },
+  {
+    "persian": "چیزی",
+    "canonical": "chīzī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "something",
+    "reviewed": false
+  },
+  {
+    "persian": "حاضر",
+    "canonical": "hāzer",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ready",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 84
+    }
+  },
+  {
+    "persian": "حالا",
+    "canonical": "hala",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "now",
+    "reviewed": false
+  },
+  {
+    "persian": "حتما",
+    "canonical": "hatman",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "definitely",
+    "reviewed": false
+  },
+  {
+    "persian": "حتی",
+    "canonical": "hatta",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "even",
+    "reviewed": false
+  },
+  {
+    "persian": "حرف",
+    "canonical": "harf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "letter / Word",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 234
+    }
+  },
+  {
+    "persian": "حفظ",
+    "canonical": "hefz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "memorise",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 256
+    }
+  },
+  {
+    "persian": "حمام",
+    "canonical": "hammām",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bath",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 233
+    }
+  },
+  {
+    "persian": "حیوان",
+    "canonical": "heyvān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "animal",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 235
+    }
+  },
+  {
+    "persian": "خاک",
+    "canonical": "khāk",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "soil",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 265
+    }
+  },
+  {
+    "persian": "خانم",
+    "canonical": "khanom",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "lady/Mrs.",
+    "reviewed": false
+  },
+  {
+    "persian": "خانه",
+    "canonical": "khāneh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "house",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 28
+    }
+  },
+  {
+    "persian": "خانواده",
+    "canonical": "khanevadeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "family",
+    "reviewed": false
+  },
+  {
+    "persian": "خب",
+    "canonical": "khob",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "well/okay",
+    "reviewed": false
+  },
+  {
+    "persian": "خدا",
+    "canonical": "khoda",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "God",
+    "reviewed": false
+  },
+  {
+    "persian": "خداحافظ",
+    "canonical": "khodahafez",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "goodbye",
+    "reviewed": false
+  },
+  {
+    "persian": "خدایا",
+    "canonical": "khodaya",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "oh God",
+    "reviewed": false
+  },
+  {
+    "persian": "خر",
+    "canonical": "khar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "donkey",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 136
+    }
+  },
+  {
+    "persian": "خرس",
+    "canonical": "khers",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bear",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 56
+    }
+  },
+  {
+    "persian": "خرگوش",
+    "canonical": "khargūsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "rabbit",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 39
+    }
+  },
+  {
+    "persian": "خط",
+    "canonical": "khat",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "line",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 173
+    }
+  },
+  {
+    "persian": "خلاص",
+    "canonical": "khalās",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "finished",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 252
+    }
+  },
+  {
+    "persian": "خواست",
+    "canonical": "khast",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "wanted",
+    "reviewed": false
+  },
+  {
+    "persian": "خواستم",
+    "canonical": "khastam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I wanted",
+    "reviewed": false
+  },
+  {
+    "persian": "خواستن",
+    "canonical": "khastan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to want",
+    "reviewed": false
+  },
+  {
+    "persian": "خوام",
+    "canonical": "khaam",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "I want",
+    "reviewed": false
+  },
+  {
+    "persian": "خواهد",
+    "canonical": "khahad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "will/wants",
+    "reviewed": false
+  },
+  {
+    "persian": "خواهر",
+    "canonical": "khāhar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sister",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 70
+    }
+  },
+  {
+    "persian": "خواهش",
+    "canonical": "khahesh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "please/request",
+    "reviewed": false
+  },
+  {
+    "persian": "خواهم",
+    "canonical": "khaham",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I will/want",
+    "reviewed": false
+  },
+  {
+    "persian": "خواهی",
+    "canonical": "khahi",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you will/want",
+    "reviewed": false
+  },
+  {
+    "persian": "خوب",
+    "canonical": "khūb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "good",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 29
+    }
+  },
+  {
+    "persian": "خوبه",
+    "canonical": "khūbeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "it's good",
+    "reviewed": false
+  },
+  {
+    "persian": "خوبی",
+    "canonical": "khūbī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you're good/goodness",
+    "reviewed": false
+  },
+  {
+    "persian": "خود",
+    "canonical": "khūd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "self",
+    "reviewed": false
+  },
+  {
+    "persian": "خودت",
+    "canonical": "khūdat",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "yourself",
+    "reviewed": false
+  },
+  {
+    "persian": "خودش",
+    "canonical": "khūdash",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "himself/herself",
+    "reviewed": false
+  },
+  {
+    "persian": "خودم",
+    "canonical": "khūdam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "myself",
+    "reviewed": false
+  },
+  {
+    "persian": "خورد",
+    "canonical": "khūrd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "ate",
+    "reviewed": false
+  },
+  {
+    "persian": "خوردم",
+    "canonical": "khūrdam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I ate",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "khord",
+        "role": "stem",
+        "gloss": "ate (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-22"
+    }
+  },
+  {
+    "persian": "خوردن",
+    "canonical": "khūrdan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to eat/drink",
+    "reviewed": false
+  },
+  {
+    "persian": "خورشید",
+    "canonical": "khūrshīd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sun",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 43
+    }
+  },
+  {
+    "persian": "خوشحال",
+    "canonical": "khoshhal",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "happy",
+    "reviewed": false
+  },
+  {
+    "persian": "خونه",
+    "canonical": "khūneh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "house",
+    "reviewed": false
+  },
+  {
+    "persian": "خیار",
+    "canonical": "khiyār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cucumber",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 111
+    }
+  },
+  {
+    "persian": "خیلی",
+    "canonical": "kheīlī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "very/a lot",
+    "reviewed": false
+  },
+  {
+    "persian": "داد",
+    "canonical": "dad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "gave",
+    "reviewed": false
+  },
+  {
+    "persian": "دادم",
+    "canonical": "dadam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I gave",
+    "reviewed": false
+  },
+  {
+    "persian": "داده",
+    "canonical": "dadeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "given",
+    "reviewed": false
+  },
+  {
+    "persian": "دارد",
+    "canonical": "darad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "he/she has",
+    "reviewed": false
+  },
+  {
+    "persian": "دارم",
+    "canonical": "dāram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I have",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "dār",
+        "role": "stem",
+        "gloss": "have / be in the middle of"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-36"
+    }
+  },
+  {
+    "persian": "دارند",
+    "canonical": "darand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they have",
+    "reviewed": false
+  },
+  {
+    "persian": "داره",
+    "canonical": "dareh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "has",
+    "reviewed": false
+  },
+  {
+    "persian": "داری",
+    "canonical": "dari",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you have",
+    "reviewed": false
+  },
+  {
+    "persian": "دارید",
+    "canonical": "darid",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you (pl.) have",
+    "reviewed": false
+  },
+  {
+    "persian": "داریم",
+    "canonical": "darim",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we have",
+    "reviewed": false
+  },
+  {
+    "persian": "دانم",
+    "canonical": "danam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I know",
+    "reviewed": false
+  },
+  {
+    "persian": "دانی",
+    "canonical": "dani",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you know",
+    "reviewed": false
+  },
+  {
+    "persian": "دختر",
+    "canonical": "dokhtar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "girl",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 68
+    }
+  },
+  {
+    "persian": "در",
+    "canonical": "dar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "door",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 162
+    }
+  },
+  {
+    "persian": "درباره",
+    "canonical": "darbareh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "about",
+    "reviewed": false
+  },
+  {
+    "persian": "درخت",
+    "canonical": "derakht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tree",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 23
+    }
+  },
+  {
+    "persian": "درست",
+    "canonical": "dorost",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "correct",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 80
+    }
+  },
+  {
+    "persian": "دروغ",
+    "canonical": "dorūgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lie",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 78
+    }
+  },
+  {
+    "persian": "دریا",
+    "canonical": "daryā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sea",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 18
+    }
+  },
+  {
+    "persian": "دست",
+    "canonical": "dast",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hand",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 51
+    }
+  },
+  {
+    "persian": "دقیقه",
+    "canonical": "daghīgheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "minute",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 93
+    }
+  },
+  {
+    "persian": "دکتر",
+    "canonical": "doktor",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "doctor",
+    "reviewed": false
+  },
+  {
+    "persian": "دل",
+    "canonical": "del",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "heart (informal)",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 268
+    }
+  },
+  {
+    "persian": "دندان",
+    "canonical": "dandān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tooth",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 180
+    }
+  },
+  {
+    "persian": "دنیا",
+    "canonical": "donya",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "world",
+    "reviewed": false
+  },
+  {
+    "persian": "ده",
+    "canonical": "dah",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ten",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 225
+    }
+  },
+  {
+    "persian": "دهان",
+    "canonical": "dahān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mouth",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 176
+    }
+  },
+  {
+    "persian": "دو",
+    "canonical": "dū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "two",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 217
+    }
+  },
+  {
+    "persian": "دوباره",
+    "canonical": "dobareh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "again",
+    "reviewed": false
+  },
+  {
+    "persian": "دوست",
+    "canonical": "dūst",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "friend",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 26
+    }
+  },
+  {
+    "persian": "دوشنبه",
+    "canonical": "dūshanbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Monday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 279
+    }
+  },
+  {
+    "persian": "دوغ",
+    "canonical": "dūgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "yogurt drink",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 119
+    }
+  },
+  {
+    "persian": "دونم",
+    "canonical": "dūnam",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "I know",
+    "reviewed": false
+  },
+  {
+    "persian": "دونی",
+    "canonical": "dūnī",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "you know",
+    "reviewed": false
+  },
+  {
+    "persian": "دید",
+    "canonical": "dīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "saw",
+    "reviewed": false
+  },
+  {
+    "persian": "دیدم",
+    "canonical": "dīdam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I saw",
+    "reviewed": false
+  },
+  {
+    "persian": "دیدن",
+    "canonical": "dīdan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to see",
+    "reviewed": false
+  },
+  {
+    "persian": "دیدی",
+    "canonical": "dīdī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you saw",
+    "reviewed": false
+  },
+  {
+    "persian": "دیر",
+    "canonical": "dīr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "late",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 95
+    }
+  },
+  {
+    "persian": "دیروز",
+    "canonical": "dīrūz",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "yesterday",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l04-10"
+    }
+  },
+  {
+    "persian": "دیشب",
+    "canonical": "dīshab",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "last Night",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 45,
+      "harfBezan": "l04-20"
+    }
+  },
+  {
+    "persian": "دیگر",
+    "canonical": "dīgar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "else/other",
+    "reviewed": false
+  },
+  {
+    "persian": "دیگه",
+    "canonical": "dīgeh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "else/anymore",
+    "reviewed": false
+  },
+  {
+    "persian": "ذرت",
+    "canonical": "zorat",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "corn",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 107
+    }
+  },
+  {
+    "persian": "را",
+    "canonical": "ra",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(object marker)",
+    "reviewed": false
+  },
+  {
+    "persian": "راست",
+    "canonical": "rāst",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "right",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 245
+    }
+  },
+  {
+    "persian": "راه",
+    "canonical": "rah",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "way/road",
+    "reviewed": false
+  },
+  {
+    "persian": "رفت",
+    "canonical": "raft",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "went",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "raft",
+        "role": "stem",
+        "gloss": "went (past stem)"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-25"
+    }
+  },
+  {
+    "persian": "رفتم",
+    "canonical": "raftam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I went",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "raft",
+        "role": "stem",
+        "gloss": "went (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-08"
+    }
+  },
+  {
+    "persian": "رفتن",
+    "canonical": "raftan",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "to go",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "raft",
+        "role": "stem",
+        "gloss": "went (past stem)"
+      },
+      {
+        "fin": "an",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-31"
+    }
+  },
+  {
+    "persian": "رفته",
+    "canonical": "rafteh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "gone",
+    "reviewed": false
+  },
+  {
+    "persian": "رفتی",
+    "canonical": "raftī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "you went",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "raft",
+        "role": "stem",
+        "gloss": "went (past stem)"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-29"
+    }
+  },
+  {
+    "persian": "رفتیم",
+    "canonical": "raftīm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we went",
+    "reviewed": false
+  },
+  {
+    "persian": "رقص",
+    "canonical": "raghs",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dance",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 97
+    }
+  },
+  {
+    "persian": "رم",
+    "canonical": "ram",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "I go",
+    "reviewed": false
+  },
+  {
+    "persian": "رو",
+    "canonical": "rū",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(object marker/colloq.)",
+    "reviewed": false
+  },
+  {
+    "persian": "روباه",
+    "canonical": "rūbāh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fox",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 132
+    }
+  },
+  {
+    "persian": "روح",
+    "canonical": "rūh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "spirit",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 236
+    }
+  },
+  {
+    "persian": "رود",
+    "canonical": "rūd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "river",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 202
+    }
+  },
+  {
+    "persian": "رود",
+    "canonical": "ravad",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "goes",
+    "reviewed": false
+  },
+  {
+    "persian": "روز",
+    "canonical": "rūz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "day",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 208
+    }
+  },
+  {
+    "persian": "روم",
+    "canonical": "ravam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I go",
+    "reviewed": false
+  },
+  {
+    "persian": "روی",
+    "canonical": "rooye",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "on/face",
+    "reviewed": false
+  },
+  {
+    "persian": "زانو",
+    "canonical": "zānū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "knee",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 182
+    }
+  },
+  {
+    "persian": "زبان",
+    "canonical": "zabān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tongue",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 21
+    }
+  },
+  {
+    "persian": "زرد",
+    "canonical": "zard",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "yellow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 229
+    }
+  },
+  {
+    "persian": "زمستان",
+    "canonical": "zemestān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "winter",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 207
+    }
+  },
+  {
+    "persian": "زمین",
+    "canonical": "zamīn",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "earth",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 197
+    }
+  },
+  {
+    "persian": "زن",
+    "canonical": "zan",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "woman",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 8
+    }
+  },
+  {
+    "persian": "زنبور",
+    "canonical": "zanbūr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bee",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 38
+    }
+  },
+  {
+    "persian": "زندگی",
+    "canonical": "zendegī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "life",
+    "reviewed": false
+  },
+  {
+    "persian": "زود",
+    "canonical": "zūd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "early",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 96
+    }
+  },
+  {
+    "persian": "زیاد",
+    "canonical": "ziyad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "a lot/many",
+    "reviewed": false
+  },
+  {
+    "persian": "زیر",
+    "canonical": "zīr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "under",
+    "reviewed": false
+  },
+  {
+    "persian": "ژاکت",
+    "canonical": "zhāket",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "jacket",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 158
+    }
+  },
+  {
+    "persian": "ژله",
+    "canonical": "zhaleh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "jelly",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 112
+    }
+  },
+  {
+    "persian": "ساعت",
+    "canonical": "sā'at",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "clock",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 147
+    }
+  },
+  {
+    "persian": "سال",
+    "canonical": "sal",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "year",
+    "reviewed": false
+  },
+  {
+    "persian": "سبز",
+    "canonical": "sabz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "green",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 46
+    }
+  },
+  {
+    "persian": "سپاس",
+    "canonical": "sepās",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "thanks",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 243
+    }
+  },
+  {
+    "persian": "ستاره",
+    "canonical": "setāreh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "star",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 191
+    }
+  },
+  {
+    "persian": "سخت",
+    "canonical": "sakht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hard",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 269
+    }
+  },
+  {
+    "persian": "سر",
+    "canonical": "sar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "head",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 175
+    }
+  },
+  {
+    "persian": "سرخ",
+    "canonical": "sorkh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "red",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 228
+    }
+  },
+  {
+    "persian": "سرد",
+    "canonical": "sard",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cold",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 89
+    }
+  },
+  {
+    "persian": "سریع",
+    "canonical": "sarī'",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fast",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 261
+    }
+  },
+  {
+    "persian": "سطح",
+    "canonical": "sath",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "surface",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 254
+    }
+  },
+  {
+    "persian": "سطل",
+    "canonical": "satl",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bucket",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 152
+    }
+  },
+  {
+    "persian": "سفید",
+    "canonical": "sefīd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "white",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 226
+    }
+  },
+  {
+    "persian": "سگ",
+    "canonical": "sag",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dog",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 130
+    }
+  },
+  {
+    "persian": "سلام",
+    "canonical": "salām",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hello",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 64
+    }
+  },
+  {
+    "persian": "سنگ",
+    "canonical": "sang",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "stone",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 198
+    }
+  },
+  {
+    "persian": "سه",
+    "canonical": "seh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "three",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 218
+    }
+  },
+  {
+    "persian": "سوال",
+    "canonical": "soal",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "question",
+    "reviewed": false
+  },
+  {
+    "persian": "سوپ",
+    "canonical": "sūp",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "soup",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 114
+    }
+  },
+  {
+    "persian": "سیاه",
+    "canonical": "siyāh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "black",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 227
+    }
+  },
+  {
+    "persian": "سیب",
+    "canonical": "sīb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "apple",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 10
+    }
+  },
+  {
+    "persian": "شاخ",
+    "canonical": "shākh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "horn",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 271
+    }
+  },
+  {
+    "persian": "شام",
+    "canonical": "shām",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dinner",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 116
+    }
+  },
+  {
+    "persian": "شاید",
+    "canonical": "shayad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "maybe",
+    "reviewed": false
+  },
+  {
+    "persian": "شب",
+    "canonical": "shab",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "night",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 15
+    }
+  },
+  {
+    "persian": "شتر",
+    "canonical": "shotor",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "camel",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 135
+    }
+  },
+  {
+    "persian": "شد",
+    "canonical": "shod",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "became/happened",
+    "reviewed": false
+  },
+  {
+    "persian": "شدم",
+    "canonical": "shodam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I became",
+    "reviewed": false
+  },
+  {
+    "persian": "شدن",
+    "canonical": "shodan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to become",
+    "reviewed": false
+  },
+  {
+    "persian": "شدند",
+    "canonical": "shodand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they became",
+    "reviewed": false
+  },
+  {
+    "persian": "شده",
+    "canonical": "shodeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "become/been",
+    "reviewed": false
+  },
+  {
+    "persian": "شدی",
+    "canonical": "shodī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you became",
+    "reviewed": false
+  },
+  {
+    "persian": "شش",
+    "canonical": "shesh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "six",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 221
+    }
+  },
+  {
+    "persian": "شعر",
+    "canonical": "she'r",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "poem",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 258
+    }
+  },
+  {
+    "persian": "شکر",
+    "canonical": "shekar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sugar",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 124
+    }
+  },
+  {
+    "persian": "شکلات",
+    "canonical": "shokolāt",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "chocolate",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 113
+    }
+  },
+  {
+    "persian": "شکم",
+    "canonical": "shekam",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "stomach",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 188
+    }
+  },
+  {
+    "persian": "شما",
+    "canonical": "shomā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "you(pl./formal)",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "shomā",
+        "role": "plain",
+        "gloss": "you all"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-33"
+    }
+  },
+  {
+    "persian": "شمع",
+    "canonical": "sham'",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "candle",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 167
+    }
+  },
+  {
+    "persian": "شنبه",
+    "canonical": "shanbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Saturday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 277
+    }
+  },
+  {
+    "persian": "شه",
+    "canonical": "sheh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "becomes",
+    "reviewed": false
+  },
+  {
+    "persian": "شهر",
+    "canonical": "shahr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "city",
+    "reviewed": false
+  },
+  {
+    "persian": "شود",
+    "canonical": "shavad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "becomes",
+    "reviewed": false
+  },
+  {
+    "persian": "شیپور",
+    "canonical": "shīpūr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "trumpet",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 172
+    }
+  },
+  {
+    "persian": "شیر",
+    "canonical": "shīr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lion/Milk",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 27
+    }
+  },
+  {
+    "persian": "شیرین",
+    "canonical": "shīrīn",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sweet",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 42
+    }
+  },
+  {
+    "persian": "صابون",
+    "canonical": "sābūn",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "soap",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 166
+    }
+  },
+  {
+    "persian": "صبح",
+    "canonical": "sobh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "morning",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 209
+    }
+  },
+  {
+    "persian": "صبحانه",
+    "canonical": "sobhāneh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "breakfast",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 115
+    }
+  },
+  {
+    "persian": "صحرا",
+    "canonical": "sahrā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "desert",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 204
+    }
+  },
+  {
+    "persian": "صد",
+    "canonical": "sad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "hundred",
+    "reviewed": false
+  },
+  {
+    "persian": "صدا",
+    "canonical": "sedā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sound",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 274
+    }
+  },
+  {
+    "persian": "صفر",
+    "canonical": "sefr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "zero",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 215
+    }
+  },
+  {
+    "persian": "صندلی",
+    "canonical": "sandalī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "chair",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 150
+    }
+  },
+  {
+    "persian": "صندوق",
+    "canonical": "sandūgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "box",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 151
+    }
+  },
+  {
+    "persian": "صورت",
+    "canonical": "sūrat",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "face",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 185
+    }
+  },
+  {
+    "persian": "ضعیف",
+    "canonical": "za'īf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "weak",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 85
+    }
+  },
+  {
+    "persian": "طلا",
+    "canonical": "talā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "gold",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 168
+    }
+  },
+  {
+    "persian": "طلوع",
+    "canonical": "tolū'",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sunrise",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 210
+    }
+  },
+  {
+    "persian": "ظرف",
+    "canonical": "zarf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dish",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 148
+    }
+  },
+  {
+    "persian": "ظهر",
+    "canonical": "zohr",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "noon",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 255
+    }
+  },
+  {
+    "persian": "عسل",
+    "canonical": "asal",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "honey",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 102
+    }
+  },
+  {
+    "persian": "عشق",
+    "canonical": "eshgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "love",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 77
+    }
+  },
+  {
+    "persian": "عصر",
+    "canonical": "asr",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "afternoon",
+    "reviewed": false
+  },
+  {
+    "persian": "عضو",
+    "canonical": "ozv",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "member",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 248
+    }
+  },
+  {
+    "persian": "عقاب",
+    "canonical": "oghāb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "eagle",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 140
+    }
+  },
+  {
+    "persian": "عکس",
+    "canonical": "aks",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "photo",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 156
+    }
+  },
+  {
+    "persian": "عنکبوت",
+    "canonical": "ankabūt",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "spider",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 60
+    }
+  },
+  {
+    "persian": "عوض",
+    "canonical": "avaz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "instead",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 247
+    }
+  },
+  {
+    "persian": "عینک",
+    "canonical": "eynak",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "glasses",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 171
+    }
+  },
+  {
+    "persian": "غذا",
+    "canonical": "ghazā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "food",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 106
+    }
+  },
+  {
+    "persian": "غروب",
+    "canonical": "ghorūb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sunset",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 213
+    }
+  },
+  {
+    "persian": "غلط",
+    "canonical": "ghalat",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "wrong",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 79
+    }
+  },
+  {
+    "persian": "فارسی",
+    "canonical": "fārsī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Persian",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 76
+    }
+  },
+  {
+    "persian": "فردا",
+    "canonical": "fardā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tomorrow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 73,
+      "harfBezan": "l03-25"
+    }
+  },
+  {
+    "persian": "فرش",
+    "canonical": "farsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "carpet",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 24
+    }
+  },
+  {
+    "persian": "فضا",
+    "canonical": "fazā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "space",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 249
+    }
+  },
+  {
+    "persian": "فقط",
+    "canonical": "faghat",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "only",
+    "reviewed": false
+  },
+  {
+    "persian": "فیل",
+    "canonical": "fīl",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "elephant",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 125
+    }
+  },
+  {
+    "persian": "فیلم",
+    "canonical": "fīlm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "movie",
+    "reviewed": false
+  },
+  {
+    "persian": "قبل",
+    "canonical": "ghabl",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "before",
+    "reviewed": false
+  },
+  {
+    "persian": "قدیمی",
+    "canonical": "ghadīmī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "old",
+    "reviewed": false
+  },
+  {
+    "persian": "قصه",
+    "canonical": "gheseh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "story",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 251
+    }
+  },
+  {
+    "persian": "قلب",
+    "canonical": "ghalb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "heart",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 57
+    }
+  },
+  {
+    "persian": "قلم",
+    "canonical": "ghalam",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pen",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 273
+    }
+  },
+  {
+    "persian": "قند",
+    "canonical": "ghand",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sugar cubes",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 101
+    }
+  },
+  {
+    "persian": "قهوه",
+    "canonical": "ghahveh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "coffee",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 104
+    }
+  },
+  {
+    "persian": "قورباغه",
+    "canonical": "ghūrbāgheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "frog",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 134
+    }
+  },
+  {
+    "persian": "کاج",
+    "canonical": "kāj",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pine tree",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 238
+    }
+  },
+  {
+    "persian": "کار",
+    "canonical": "kār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "work",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 74
+    }
+  },
+  {
+    "persian": "کباب",
+    "canonical": "kabāb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "kebab",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 59
+    }
+  },
+  {
+    "persian": "کبوتر",
+    "canonical": "kabūtar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pigeon",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 133
+    }
+  },
+  {
+    "persian": "کتاب",
+    "canonical": "ketāb",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "book",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 30
+    }
+  },
+  {
+    "persian": "کثیف",
+    "canonical": "kasīf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "dirty",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 81
+    }
+  },
+  {
+    "persian": "کجا",
+    "canonical": "kojā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "where",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-10"
+    }
+  },
+  {
+    "persian": "کدام",
+    "canonical": "kodam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "which",
+    "reviewed": false
+  },
+  {
+    "persian": "کدوم",
+    "canonical": "kodūm",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "which",
+    "reviewed": false
+  },
+  {
+    "persian": "کرد",
+    "canonical": "kard",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "did/made",
+    "reviewed": false
+  },
+  {
+    "persian": "کردم",
+    "canonical": "kardam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I did/made",
+    "reviewed": false
+  },
+  {
+    "persian": "کردن",
+    "canonical": "kardan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to do/make",
+    "reviewed": false
+  },
+  {
+    "persian": "کردند",
+    "canonical": "kardand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they did",
+    "reviewed": false
+  },
+  {
+    "persian": "کرده",
+    "canonical": "kardeh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "done",
+    "reviewed": false
+  },
+  {
+    "persian": "کردی",
+    "canonical": "kardī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you did",
+    "reviewed": false
+  },
+  {
+    "persian": "کردید",
+    "canonical": "kardīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you (pl.) did",
+    "reviewed": false
+  },
+  {
+    "persian": "کردیم",
+    "canonical": "kardīm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we did",
+    "reviewed": false
+  },
+  {
+    "persian": "کس",
+    "canonical": "kas",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "person",
+    "reviewed": false
+  },
+  {
+    "persian": "کسی",
+    "canonical": "kasī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "someone",
+    "reviewed": false
+  },
+  {
+    "persian": "کشور",
+    "canonical": "keshvar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "country",
+    "reviewed": false
+  },
+  {
+    "persian": "کفش",
+    "canonical": "kafsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "shoe",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 37
+    }
+  },
+  {
+    "persian": "کلاس",
+    "canonical": "kelās",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "class",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 272
+    }
+  },
+  {
+    "persian": "کلاغ",
+    "canonical": "kalāgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "crow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 141
+    }
+  },
+  {
+    "persian": "کلاه",
+    "canonical": "kolāh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hat",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 159
+    }
+  },
+  {
+    "persian": "کلمه",
+    "canonical": "kalameh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "word",
+    "reviewed": false
+  },
+  {
+    "persian": "کلید",
+    "canonical": "kelīd",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "key",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 146
+    }
+  },
+  {
+    "persian": "کم",
+    "canonical": "kam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "little/few",
+    "reviewed": false
+  },
+  {
+    "persian": "کمتر",
+    "canonical": "kamtar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "less",
+    "reviewed": false
+  },
+  {
+    "persian": "کن",
+    "canonical": "kon",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "do!/make!",
+    "reviewed": false
+  },
+  {
+    "persian": "کنار",
+    "canonical": "kenar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "beside",
+    "reviewed": false
+  },
+  {
+    "persian": "کند",
+    "canonical": "konad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "does",
+    "reviewed": false
+  },
+  {
+    "persian": "کنم",
+    "canonical": "konam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I do",
+    "reviewed": false
+  },
+  {
+    "persian": "کنند",
+    "canonical": "konand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they do",
+    "reviewed": false
+  },
+  {
+    "persian": "کنه",
+    "canonical": "koneh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "does",
+    "reviewed": false
+  },
+  {
+    "persian": "کنی",
+    "canonical": "konī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you do",
+    "reviewed": false
+  },
+  {
+    "persian": "کنید",
+    "canonical": "konīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you (pl.) do",
+    "reviewed": false
+  },
+  {
+    "persian": "کنیم",
+    "canonical": "konīm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we do",
+    "reviewed": false
+  },
+  {
+    "persian": "که",
+    "canonical": "keh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "that/which",
+    "reviewed": false
+  },
+  {
+    "persian": "کوچک",
+    "canonical": "kūchak",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "small",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 87
+    }
+  },
+  {
+    "persian": "کوچیک",
+    "canonical": "kūchīk",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "small",
+    "reviewed": false
+  },
+  {
+    "persian": "کوه",
+    "canonical": "kūh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mountain",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 193
+    }
+  },
+  {
+    "persian": "کی",
+    "canonical": "key",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "who/when",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-24"
+    }
+  },
+  {
+    "persian": "کیف",
+    "canonical": "kīf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bag",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 58
+    }
+  },
+  {
+    "persian": "گاو",
+    "canonical": "gāv",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cow",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 126
+    }
+  },
+  {
+    "persian": "گپ",
+    "canonical": "gap",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "chat",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 98
+    }
+  },
+  {
+    "persian": "گربه",
+    "canonical": "gorbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cat",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 53
+    }
+  },
+  {
+    "persian": "گردن",
+    "canonical": "gardan",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "neck",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 181
+    }
+  },
+  {
+    "persian": "گردو",
+    "canonical": "gerdū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "walnut",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 120
+    }
+  },
+  {
+    "persian": "گرفت",
+    "canonical": "gereft",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "took/got",
+    "reviewed": false
+  },
+  {
+    "persian": "گرفتم",
+    "canonical": "gereftam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I took",
+    "reviewed": false
+  },
+  {
+    "persian": "گرگ",
+    "canonical": "gorg",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "wolf",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 131
+    }
+  },
+  {
+    "persian": "گرم",
+    "canonical": "garm",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hot",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 88
+    }
+  },
+  {
+    "persian": "گفت",
+    "canonical": "goft",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "said",
+    "reviewed": false
+  },
+  {
+    "persian": "گفتم",
+    "canonical": "goftam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I said",
+    "reviewed": false
+  },
+  {
+    "persian": "گفتن",
+    "canonical": "goftan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to say",
+    "reviewed": false
+  },
+  {
+    "persian": "گفته",
+    "canonical": "gofteh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "said(p.p.)",
+    "reviewed": false
+  },
+  {
+    "persian": "گفتی",
+    "canonical": "goftī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you said",
+    "reviewed": false
+  },
+  {
+    "persian": "گل",
+    "canonical": "gol",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "flower",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 195
+    }
+  },
+  {
+    "persian": "گم",
+    "canonical": "gam",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "I say",
+    "reviewed": false
+  },
+  {
+    "persian": "گوجه",
+    "canonical": "gūjeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "tomato",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 103
+    }
+  },
+  {
+    "persian": "گوش",
+    "canonical": "gūsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ear",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 34
+    }
+  },
+  {
+    "persian": "لب",
+    "canonical": "lab",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lip",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 177
+    }
+  },
+  {
+    "persian": "لباس",
+    "canonical": "lebās",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "clothes",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 160
+    }
+  },
+  {
+    "persian": "لپ",
+    "canonical": "lop",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "cheek",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 246
+    }
+  },
+  {
+    "persian": "لحظه",
+    "canonical": "lahzeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "moment",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 94
+    }
+  },
+  {
+    "persian": "لطفا",
+    "canonical": "lotfan",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "please",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-32"
+    }
+  },
+  {
+    "persian": "لیمو",
+    "canonical": "līmū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lemon",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 118
+    }
+  },
+  {
+    "persian": "ما",
+    "canonical": "ma",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we/us",
+    "reviewed": false
+  },
+  {
+    "persian": "مادر",
+    "canonical": "mādar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mother",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 61
+    }
+  },
+  {
+    "persian": "مار",
+    "canonical": "mār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "snake",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 138
+    }
+  },
+  {
+    "persian": "ماژیک",
+    "canonical": "māzhīk",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "marker",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 157
+    }
+  },
+  {
+    "persian": "ماست",
+    "canonical": "māst",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "yogurt",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 108
+    }
+  },
+  {
+    "persian": "ماشین",
+    "canonical": "māshīn",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "car",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 54
+    }
+  },
+  {
+    "persian": "مامان",
+    "canonical": "maman",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "mom",
+    "reviewed": false
+  },
+  {
+    "persian": "مانند",
+    "canonical": "manand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "like/as",
+    "reviewed": false
+  },
+  {
+    "persian": "ماه",
+    "canonical": "māh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "moon",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 192
+    }
+  },
+  {
+    "persian": "ماهی",
+    "canonical": "māhī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fish",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 105
+    }
+  },
+  {
+    "persian": "ماهیچه",
+    "canonical": "māhīcheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "muscle",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 241
+    }
+  },
+  {
+    "persian": "متشکرم",
+    "canonical": "motshakkeram",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "thank you",
+    "reviewed": false
+  },
+  {
+    "persian": "مثل",
+    "canonical": "mesl",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "like",
+    "reviewed": false
+  },
+  {
+    "persian": "مثلا",
+    "canonical": "masalan",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "for example",
+    "reviewed": false
+  },
+  {
+    "persian": "مثلث",
+    "canonical": "mosallas",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "triangle",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 262
+    }
+  },
+  {
+    "persian": "مچ",
+    "canonical": "mach",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "wrist",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 240
+    }
+  },
+  {
+    "persian": "مداد",
+    "canonical": "medād",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "pencil",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 149
+    }
+  },
+  {
+    "persian": "مدرسه",
+    "canonical": "madreseh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "school",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 276
+    }
+  },
+  {
+    "persian": "مرد",
+    "canonical": "mard",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "man",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 67
+    }
+  },
+  {
+    "persian": "مردم",
+    "canonical": "mardom",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "people",
+    "reviewed": false
+  },
+  {
+    "persian": "مرسی",
+    "canonical": "mersī",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "thanks",
+    "reviewed": false
+  },
+  {
+    "persian": "مرغ",
+    "canonical": "morgh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hen",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 142
+    }
+  },
+  {
+    "persian": "مریض",
+    "canonical": "marīz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "sick",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 83
+    }
+  },
+  {
+    "persian": "مژه",
+    "canonical": "mozheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "eyelash",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 183
+    }
+  },
+  {
+    "persian": "مشکل",
+    "canonical": "moshkel",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "problem",
+    "reviewed": false
+  },
+  {
+    "persian": "مغز",
+    "canonical": "maghz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "brain",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 186
+    }
+  },
+  {
+    "persian": "مگس",
+    "canonical": "magas",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fly",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 128
+    }
+  },
+  {
+    "persian": "ممنون",
+    "canonical": "mamnūn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "thanks",
+    "reviewed": false
+  },
+  {
+    "persian": "من",
+    "canonical": "man",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "i / Me",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "man",
+        "role": "plain",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "noghteh": 63,
+      "harfBezan": "l02-26"
+    }
+  },
+  {
+    "persian": "مهم",
+    "canonical": "mohem",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "important",
+    "reviewed": false
+  },
+  {
+    "persian": "مو",
+    "canonical": "mū",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "hair",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 179
+    }
+  },
+  {
+    "persian": "موز",
+    "canonical": "mūz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "banana",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 123
+    }
+  },
+  {
+    "persian": "موش",
+    "canonical": "mūsh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mouse",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 11
+    }
+  },
+  {
+    "persian": "می",
+    "canonical": "mī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(present tense prefix)",
+    "reviewed": false
+  },
+  {
+    "persian": "میاد",
+    "canonical": "miyād",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "present (replaces be-) + come + he / she",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "d",
+        "role": "ending",
+        "gloss": "he / she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-34"
+    }
+  },
+  {
+    "persian": "میام",
+    "canonical": "miyām",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I come / I'm coming",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "m",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-03"
+    }
+  },
+  {
+    "persian": "میایم",
+    "canonical": "miyāym",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "present (replaces be-) + come + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "ym",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-35"
+    }
+  },
+  {
+    "persian": "می‌تونم",
+    "canonical": "mītūnam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I can",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l01-19"
+    }
+  },
+  {
+    "persian": "می‌تونه",
+    "canonical": "mītūneh",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + can + he/she",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "e",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-23"
+    }
+  },
+  {
+    "persian": "می‌تونی",
+    "canonical": "mītūnī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "you can",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-09"
+    }
+  },
+  {
+    "persian": "می‌تونیم",
+    "canonical": "mītūnīm",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "we can",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "im",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-30"
+    }
+  },
+  {
+    "persian": "می‌خواد",
+    "canonical": "mīkhād",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "he/she wants",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "d",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-14"
+    }
+  },
+  {
+    "persian": "می‌خواستم",
+    "canonical": "mīkhāstam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I wanted",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing"
+      },
+      {
+        "fin": "khāst",
+        "role": "stem",
+        "gloss": "wanted (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-01"
+    }
+  },
+  {
+    "persian": "می‌خوام",
+    "canonical": "mīkhām",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I want",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "m",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l01-01"
+    }
+  },
+  {
+    "persian": "می‌خوان",
+    "canonical": "mīkhān",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + want + they",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "n",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-35"
+    }
+  },
+  {
+    "persian": "می‌خوای",
+    "canonical": "mīkhāy",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "you want",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "y",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-01"
+    }
+  },
+  {
+    "persian": "می‌خوایم",
+    "canonical": "mīkhāym",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + want + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "ym",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-28"
+    }
+  },
+  {
+    "persian": "می‌خواین",
+    "canonical": "mīkhāyn",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + want + you all",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "yn",
+        "role": "ending",
+        "gloss": "you all"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-33"
+    }
+  },
+  {
+    "persian": "می‌خورم",
+    "canonical": "mīkhūram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I eat / I'm eating",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-05"
+    }
+  },
+  {
+    "persian": "میراث",
+    "canonical": "mīrās",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "inheritance",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 263
+    }
+  },
+  {
+    "persian": "می‌رم",
+    "canonical": "mīram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I go / I'm going",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-01"
+    }
+  },
+  {
+    "persian": "می‌ری",
+    "canonical": "mīrī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + go + you",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l05-27"
+    }
+  },
+  {
+    "persian": "میز",
+    "canonical": "mīz",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "table",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 48
+    }
+  },
+  {
+    "persian": "میشه",
+    "canonical": "mīsheh",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "ongoing / present + become + it",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "sh",
+        "role": "stem",
+        "gloss": "become"
+      },
+      {
+        "fin": "e",
+        "role": "ending",
+        "gloss": "it"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l05-28"
+    }
+  },
+  {
+    "persian": "میوه",
+    "canonical": "mīveh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "fruit",
+    "reviewed": false
+  },
+  {
+    "persian": "نا",
+    "canonical": "na",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "un-/not",
+    "reviewed": false
+  },
+  {
+    "persian": "ناخن",
+    "canonical": "nākhon",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "fingernail",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 178
+    }
+  },
+  {
+    "persian": "ناراحت",
+    "canonical": "narahat",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "upset",
+    "reviewed": false
+  },
+  {
+    "persian": "نارنجی",
+    "canonical": "nārenjī",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "orange",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 231
+    }
+  },
+  {
+    "persian": "نام",
+    "canonical": "nam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "name",
+    "reviewed": false
+  },
+  {
+    "persian": "نان",
+    "canonical": "nān",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "bread",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 4
+    }
+  },
+  {
+    "persian": "ناهار",
+    "canonical": "nāhār",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "lunch",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 117
+    }
+  },
+  {
+    "persian": "نباید",
+    "canonical": "nabāyad",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "must not",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "na",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "bāyad",
+        "role": "stem",
+        "gloss": "must / have to"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l06-13"
+    }
+  },
+  {
+    "persian": "نبود",
+    "canonical": "nabūd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "was not",
+    "reviewed": false
+  },
+  {
+    "persian": "نخوردم",
+    "canonical": "nakhūrdam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ate (past stem) + I",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "na",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "khord",
+        "role": "stem",
+        "gloss": "ate (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-23"
+    }
+  },
+  {
+    "persian": "ندارد",
+    "canonical": "nadarad",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "doesn't have",
+    "reviewed": false
+  },
+  {
+    "persian": "ندارم",
+    "canonical": "nadaram",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I don't have",
+    "reviewed": false
+  },
+  {
+    "persian": "نداره",
+    "canonical": "nadareh",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "doesn't have",
+    "reviewed": false
+  },
+  {
+    "persian": "نداری",
+    "canonical": "nadari",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you don't have",
+    "reviewed": false
+  },
+  {
+    "persian": "نرفتم",
+    "canonical": "naraftam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I didn't go",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "na",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "raft",
+        "role": "stem",
+        "gloss": "went (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-14"
+    }
+  },
+  {
+    "persian": "نشاط",
+    "canonical": "neshāt",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "joy",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 253
+    }
+  },
+  {
+    "persian": "نصف",
+    "canonical": "nesf",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "half",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 250
+    }
+  },
+  {
+    "persian": "نظر",
+    "canonical": "nazar",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "opinion",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 275
+    }
+  },
+  {
+    "persian": "نعنا",
+    "canonical": "na'nā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "mint",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 260
+    }
+  },
+  {
+    "persian": "نقشه",
+    "canonical": "naghsheh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "map",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 169
+    }
+  },
+  {
+    "persian": "نکن",
+    "canonical": "nakon",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "don't!",
+    "reviewed": false
+  },
+  {
+    "persian": "نمک",
+    "canonical": "namak",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "salt",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 32
+    }
+  },
+  {
+    "persian": "نمی",
+    "canonical": "nemī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(negative present prefix)",
+    "reviewed": false
+  },
+  {
+    "persian": "نمیام",
+    "canonical": "nemiyām",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I don't come / I'm not coming",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "yā",
+        "role": "stem",
+        "gloss": "come"
+      },
+      {
+        "fin": "m",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-18"
+    }
+  },
+  {
+    "persian": "نمی‌تونستم",
+    "canonical": "nemītūnestam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing + could (past stem) + I",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing"
+      },
+      {
+        "fin": "tūnest",
+        "role": "stem",
+        "gloss": "could (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-32"
+    }
+  },
+  {
+    "persian": "نمی‌تونم",
+    "canonical": "nemītūnam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + I",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l01-21"
+    }
+  },
+  {
+    "persian": "نمی‌تونن",
+    "canonical": "nemītūnan",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + they",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "an",
+        "role": "ending",
+        "gloss": "they"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-36"
+    }
+  },
+  {
+    "persian": "نمی‌تونه",
+    "canonical": "nemītūneh",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + he/she",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "e",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-24"
+    }
+  },
+  {
+    "persian": "نمی‌تونی",
+    "canonical": "nemītūnī",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + you",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "i",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-12"
+    }
+  },
+  {
+    "persian": "نمی‌تونیم",
+    "canonical": "nemītūnīm",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + we",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "im",
+        "role": "ending",
+        "gloss": "we"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-31"
+    }
+  },
+  {
+    "persian": "نمی‌تونین",
+    "canonical": "nemītūnīn",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing / present + can + you all",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "tūn",
+        "role": "stem",
+        "gloss": "can"
+      },
+      {
+        "fin": "in",
+        "role": "ending",
+        "gloss": "you all"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-34"
+    }
+  },
+  {
+    "persian": "نمی‌خواد",
+    "canonical": "nemīkhād",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "he doesn't want",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "d",
+        "role": "ending",
+        "gloss": "he/she"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-16"
+    }
+  },
+  {
+    "persian": "نمی‌خواستم",
+    "canonical": "nemīkhāstam",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "not + ongoing + wanted (past stem) + I",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing"
+      },
+      {
+        "fin": "khāst",
+        "role": "stem",
+        "gloss": "wanted (past stem)"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l04-06"
+    }
+  },
+  {
+    "persian": "نمی‌خوام",
+    "canonical": "nemīkhām",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I don't want",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "m",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l01-06"
+    }
+  },
+  {
+    "persian": "نمی‌خوای",
+    "canonical": "nemīkhāy",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "you don't want",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "ongoing / present"
+      },
+      {
+        "fin": "khā",
+        "role": "stem",
+        "gloss": "want"
+      },
+      {
+        "fin": "y",
+        "role": "ending",
+        "gloss": "you"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l02-04"
+    }
+  },
+  {
+    "persian": "نمی‌خورم",
+    "canonical": "nemīkhūram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I don't eat / I'm not eating",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "khor",
+        "role": "stem",
+        "gloss": "eat"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-20"
+    }
+  },
+  {
+    "persian": "نمی‌رم",
+    "canonical": "nemīram",
+    "register": "colloquial",
+    "pos": "verb",
+    "gloss": "I don't go / I'm not going",
+    "reviewed": false,
+    "parts": [
+      {
+        "fin": "ne",
+        "role": "neg",
+        "gloss": "not"
+      },
+      {
+        "fin": "mi",
+        "role": "prefix",
+        "gloss": "present (replaces be-)"
+      },
+      {
+        "fin": "r",
+        "role": "stem",
+        "gloss": "go"
+      },
+      {
+        "fin": "am",
+        "role": "ending",
+        "gloss": "I"
+      }
+    ],
+    "sources": {
+      "harfBezan": "l03-16"
+    }
+  },
+  {
+    "persian": "نه",
+    "canonical": "noh",
+    "register": "formal",
+    "pos": "number",
+    "gloss": "nine",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 224
+    }
+  },
+  {
+    "persian": "نه",
+    "canonical": "na",
+    "register": "colloquial",
+    "pos": "particle",
+    "gloss": "no",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l05-06"
+    }
+  },
+  {
+    "persian": "نیست",
+    "canonical": "nīst",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "is not",
+    "reviewed": false
+  },
+  {
+    "persian": "ها",
+    "canonical": "ha",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "(plural marker)",
+    "reviewed": false
+  },
+  {
+    "persian": "هر",
+    "canonical": "har",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "every",
+    "reviewed": false
+  },
+  {
+    "persian": "هزار",
+    "canonical": "hezar",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "thousand",
+    "reviewed": false
+  },
+  {
+    "persian": "هست",
+    "canonical": "hast",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "is/exists",
+    "reviewed": false
+  },
+  {
+    "persian": "هستم",
+    "canonical": "hastam",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "I am",
+    "reviewed": false
+  },
+  {
+    "persian": "هستند",
+    "canonical": "hastand",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "they are",
+    "reviewed": false
+  },
+  {
+    "persian": "هستی",
+    "canonical": "hastī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you are",
+    "reviewed": false
+  },
+  {
+    "persian": "هستید",
+    "canonical": "hastīd",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "you (pl.) are",
+    "reviewed": false
+  },
+  {
+    "persian": "هستیم",
+    "canonical": "hastīm",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "we are",
+    "reviewed": false
+  },
+  {
+    "persian": "هشت",
+    "canonical": "hasht",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "eight",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 223
+    }
+  },
+  {
+    "persian": "هفت",
+    "canonical": "haft",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "seven",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 222
+    }
+  },
+  {
+    "persian": "هفته",
+    "canonical": "hafteh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "week",
+    "reviewed": false
+  },
+  {
+    "persian": "هم",
+    "canonical": "ham",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "also/too",
+    "reviewed": false
+  },
+  {
+    "persian": "همان",
+    "canonical": "haman",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "that very",
+    "reviewed": false
+  },
+  {
+    "persian": "همه",
+    "canonical": "hameh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "all",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 91
+    }
+  },
+  {
+    "persian": "همیشه",
+    "canonical": "hamīsheh",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "always",
+    "reviewed": false
+  },
+  {
+    "persian": "همین",
+    "canonical": "hamīn",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "this very",
+    "reviewed": false
+  },
+  {
+    "persian": "هنوز",
+    "canonical": "hanūz",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "still/yet",
+    "reviewed": false
+  },
+  {
+    "persian": "هوا",
+    "canonical": "havā",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "air",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 196
+    }
+  },
+  {
+    "persian": "هویج",
+    "canonical": "havīj",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "carrot",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 110
+    }
+  },
+  {
+    "persian": "هیچ",
+    "canonical": "hīch",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "none",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 90
+    }
+  },
+  {
+    "persian": "هیچکس",
+    "canonical": "hīchkas",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "nobody",
+    "reviewed": false
+  },
+  {
+    "persian": "هیچوقت",
+    "canonical": "hīchvaght",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "never",
+    "reviewed": false
+  },
+  {
+    "persian": "و",
+    "canonical": "va",
+    "register": "formal",
+    "pos": "conjunction",
+    "gloss": "and",
+    "reviewed": false
+  },
+  {
+    "persian": "و",
+    "canonical": "o",
+    "register": "colloquial",
+    "pos": "conjunction",
+    "gloss": "and",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l06-29"
+    }
+  },
+  {
+    "persian": "واقعا",
+    "canonical": "vaghean",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "really",
+    "reviewed": false
+  },
+  {
+    "persian": "وقت",
+    "canonical": "vaght",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "time",
+    "reviewed": false
+  },
+  {
+    "persian": "ولی",
+    "canonical": "valī",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "but",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l03-40"
+    }
+  },
+  {
+    "persian": "یا",
+    "canonical": "yā",
+    "register": "colloquial",
+    "pos": "other",
+    "gloss": "or",
+    "reviewed": false,
+    "sources": {
+      "harfBezan": "l06-26"
+    }
+  },
+  {
+    "persian": "یخ",
+    "canonical": "yakh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "ice",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 17
+    }
+  },
+  {
+    "persian": "یعنی",
+    "canonical": "yanī",
+    "register": "formal",
+    "pos": "other",
+    "gloss": "meaning/I mean",
+    "reviewed": false
+  },
+  {
+    "persian": "یک",
+    "canonical": "yek",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "one",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 216
+    }
+  },
+  {
+    "persian": "یکشنبه",
+    "canonical": "yekshanbeh",
+    "register": "formal",
+    "pos": "noun",
+    "gloss": "Sunday",
+    "reviewed": false,
+    "sources": {
+      "noghteh": 278
+    }
+  }
+]
