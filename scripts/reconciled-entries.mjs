@@ -111,7 +111,7 @@ export const RECONCILED_ENTRIES = [
     register: 'colloquial',
     pos: 'verb',
     gloss: '(that) I eat',
-    reviewed: false,
+    reviewed: true, // author confirmed: و here is genuinely short, not an ASCII stand-in for long ū
     parts: [
       { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
       { fin: 'khor', role: 'stem', gloss: 'eat' },
@@ -131,13 +131,12 @@ export const RECONCILED_ENTRIES = [
   },
   {
     persian: 'چون',
-    canonical: 'chūn',
+    canonical: 'chon',
     register: 'colloquial',
     pos: 'conjunction',
     gloss: 'because',
-    reviewed: false,
+    reviewed: true, // author confirmed: same genuine short و as بخورم, not long
     sources: { harfBezan: 'l06-21' },
-    flag: "و length not native-verified - revised from an earlier 'chon' guess to match how toMacron treats every other o-for-و word (see docs/RECONCILIATION.md)",
   },
   {
     persian: 'و',

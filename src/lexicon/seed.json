@@ -800,7 +800,7 @@
     "register": "colloquial",
     "pos": "verb",
     "gloss": "(that) I eat",
-    "reviewed": false,
+    "reviewed": true,
     "parts": [
       {
         "fin": "bo",
@@ -2325,11 +2325,11 @@
   },
   {
     "persian": "چون",
-    "canonical": "chūn",
+    "canonical": "chon",
     "register": "colloquial",
     "pos": "conjunction",
     "gloss": "because",
-    "reviewed": false,
+    "reviewed": true,
     "sources": {
       "harfBezan": "l06-21"
     }

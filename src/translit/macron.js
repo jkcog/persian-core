@@ -12,8 +12,10 @@ export const toAscii = (canonical) =>
     .replace(/[āīū]/g, (ch) => ASCII_MAP[ch]);
 
 // Canonical long-vowel spelling for a letter, independent of how an
-// existing transliteration happened to spell the same sound (o/oo/ū all
-// collapse to ū; e/eh both collapse to eh - see docs/SPEC.md §1).
+// existing transliteration happened to spell the same sound (oo/ū both
+// collapse to ū; e/eh both collapse to eh - see docs/SPEC.md §1). A bare
+// 'o' for و is handled separately below - it's genuinely ambiguous between
+// this long reading and a true short vowel, not just a spelling variant.
 const LONG_VOWEL_FOR = { ا: 'ā', آ: 'ā', و: 'ū', ی: 'ī', ه: 'eh' };
 
 /**
@@ -49,6 +51,9 @@ export const toMacron = (persian, transliteration) => {
     }
     if (letter.kind === 'consonant') canonical += letter.latin;
     else if (letter.kind === 'long') canonical += LONG_VOWEL_FOR[ch];
+    // A written letter read as a short vowel (currently only و's bare
+    // 'o') contributes its own plain latin, same as a carrier slot would.
+    else if (letter.kind === 'short') canonical += letter.latin;
     // 'silent' contributes nothing.
     if (slot) canonical += slot.vowel;
   });

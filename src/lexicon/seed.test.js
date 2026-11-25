@@ -23,8 +23,14 @@ describe('seed.json', () => {
     expect(keys.length).toBe(new Set(keys).size);
   });
 
-  it('marks every entry unreviewed - Phase 2 never sets reviewed:true itself', () => {
-    expect(seed.every((e) => e.reviewed === false)).toBe(true);
+  // build-seed.mjs's generic per-key conversion never self-certifies - the
+  // only reviewed:true entries allowed are ones the author explicitly
+  // reviewed by hand in RECONCILED_ENTRIES (بخورم, چون - see
+  // docs/RECONCILIATION.md's 2026-11-25 correction).
+  it('only marks an entry reviewed:true when RECONCILED_ENTRIES says so', () => {
+    const reviewedPersian = new Set(RECONCILED_ENTRIES.filter((e) => e.reviewed).map((e) => e.persian));
+    const wronglyReviewed = seed.filter((e) => e.reviewed && !reviewedPersian.has(e.persian));
+    expect(wronglyReviewed).toEqual([]);
   });
 
   // Guards against the data drifting from the decisions docs/RECONCILIATION.md

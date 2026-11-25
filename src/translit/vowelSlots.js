@@ -1,13 +1,18 @@
 /*
- * Ported from noghteh/src/vowelSlots.js (jkcog/noghteh), with two extensions
+ * Ported from noghteh/src/vowelSlots.js (jkcog/noghteh), with extensions
  * for spellings noghteh's own data never needed but harf-bezan's and
- * finglish-subs' do: ا/آ's long sound also matches plain or doubled 'a'
- * (خواست "khast", خوام "khaam" - noghteh always macrons it, "khāst"), and
- * و's long sound also matches a plain 'u' (harf-bezan's documented practice
- * of writing colloquial او as "u", e.g. اونجا "unjā" - CLAUDE.md's own
- * example - rather than noghteh's 'ū' or the doubled 'oo' both repos also
- * use). Everything else, including the core alignment algorithm, is
- * unchanged. Marked inline below with "extension:".
+ * finglish-subs' do: و's long sound also matches a plain 'u' (harf-bezan's
+ * documented practice of writing colloquial او as "u", e.g. اونجا "unjā" -
+ * CLAUDE.md's own example - rather than noghteh's 'ū' or the doubled 'oo'
+ * both repos also use), and a bare 'o' for و is genuinely ambiguous between
+ * a long vowel and a true short vowel - not just a spelling convention.
+ * بخورم "bokhoram" is really short (confirmed by the author); اومدم
+ * "omadam" (see RECONCILIATION.md) is harf-bezan's casual single-letter
+ * spelling of a *long* vowel. Both use the identical ASCII 'o', so this
+ * can only be resolved per word, the same way ا's short-carrier-vs-long-ā
+ * ambiguity already is below - see `alignVowels`'s ambiguity handling.
+ * Everything else, including the core alignment algorithm, is unchanged.
+ * Marked inline below with "extension:".
  *
  * Finds where the unwritten short vowels (a / e / o) sit in a Persian word,
  * and — the property persian-core relies on — treats every ASCII or macron
@@ -76,7 +81,14 @@ const SOUNDS = {
   ن: consonant('n'),
   و: [
     ...consonant('v'),
-    ...long('ū', 'oo', 'o', 'u'), // 'u': extension, harf-bezan's "unjā" convention
+    ...long('ū', 'oo', 'u'), // 'u': extension, harf-bezan's "unjā" convention
+    // extension: a bare 'o' is genuinely ambiguous between long and short -
+    // both options match the identical input, so alignVowels's widened
+    // ambiguity check (below) correctly flags it rather than silently
+    // picking one. Long listed first so an existing caller that ignores
+    // `ambiguous` keeps today's output where it happened to be right.
+    { latin: 'o', kind: 'long' },
+    { latin: 'o', kind: 'short' },
     { latin: '', kind: 'silent' },
   ],
   ه: [
@@ -168,7 +180,11 @@ export const alignVowels = (persian, transliteration) => {
   if (alignments.length === 0) return { ok: false, slots: [], letters: [], ambiguous: false };
   const fewest = Math.min(...alignments.map((a) => a.slots.length));
   const best = alignments.filter((a) => a.slots.length === fewest);
-  const key = (a) => JSON.stringify(a.slots);
+  // Two alignments can tie on slot count but still disagree on how a
+  // *written* letter reads (e.g. و's bare 'o': long vs short, same
+  // consumed input) - that's a real ambiguity too, not just where the
+  // unwritten short vowels land, so the key covers the whole shape.
+  const key = (a) => JSON.stringify([a.letters, a.slots]);
   const distinct = new Set(best.map(key));
   return { ok: true, ...best[0], ambiguous: distinct.size > 1 };
 };
