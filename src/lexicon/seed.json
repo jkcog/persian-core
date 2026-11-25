@@ -800,7 +800,7 @@
     "register": "colloquial",
     "pos": "verb",
     "gloss": "(that) I eat",
-    "reviewed": false,
+    "reviewed": true,
     "parts": [
       {
         "fin": "bo",
@@ -2325,11 +2325,11 @@
   },
   {
     "persian": "چون",
-    "canonical": "chūn",
+    "canonical": "chon",
     "register": "colloquial",
     "pos": "conjunction",
     "gloss": "because",
-    "reviewed": false,
+    "reviewed": true,
     "sources": {
       "harfBezan": "l06-21"
     }
@@ -2740,11 +2740,11 @@
   },
   {
     "persian": "خورشید",
-    "canonical": "khūrshīd",
+    "canonical": "khorshīd",
     "register": "formal",
     "pos": "noun",
     "gloss": "sun",
-    "reviewed": false,
+    "reviewed": true,
     "sources": {
       "noghteh": 43
     }
@@ -3053,11 +3053,11 @@
   },
   {
     "persian": "دو",
-    "canonical": "dū",
+    "canonical": "do",
     "register": "formal",
     "pos": "noun",
     "gloss": "two",
-    "reviewed": false,
+    "reviewed": true,
     "sources": {
       "noghteh": 217
     }
@@ -3083,11 +3083,11 @@
   },
   {
     "persian": "دوشنبه",
-    "canonical": "dūshanbeh",
+    "canonical": "doshanbeh",
     "register": "formal",
     "pos": "noun",
     "gloss": "Monday",
-    "reviewed": false,
+    "reviewed": true,
     "sources": {
       "noghteh": 279
     }

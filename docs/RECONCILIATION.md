@@ -33,7 +33,7 @@ for now") — the guess is mine, unverified, and the flag stays.
 | برم ((that) I go) | harf-bezan=beram · finglish-subs=baram | `beram` (Author decision — proceed) | finglish-subs | Medium-high — harf-bezan's own subjunctive paradigm for this verb is consistently e-stem (بره=bere, بریم=berim, بری=beri would follow); finglish-subs' "baram" is the outlier. |
 | بخورم ((that) I eat) | harf-bezan=bokhoram · finglish-subs=bekhoram | `bokhoram` (Author decision) | finglish-subs | Author's own native intuition settles this one — "bokhoram feels correct." Also consistent with be-/bo- being an allomorph that surfaces as bo- before this stem (bokhor-, boro-, vs. bekon-, bezan- elsewhere); `bekhoram` is the one to drop. |
 | دروغ (lie) | noghteh=Dorūgh · finglish-subs=dorogh | Best guess: **`dorūgh`** (long ū) — **needs native review** | finglish-subs (tentatively) | Low-medium. دروغ is widely said with a long vowel (dorūgh/"doroogh"), matching noghteh; finglish-subs' short "dorogh" is my tentative pick for the error, but I'm not confident enough to mark this reviewed. |
-| چون (because) | harf-bezan=chon · finglish-subs=choon | Revised best guess: **`chūn`** (long ū) — **needs native review** | neither — see note | Low-medium on the *vowel length itself* (that's the native-review question), but high confidence this was never a cross-repo disagreement at all: `toMacron` (`src/translit/macron.js`) converts both `chon` and `choon` to the identical `chūn`, discovered while building the Phase 2 seed. harf-bezan and finglish-subs just used different ASCII spellings of the same long vowel — this word would sit in the "style only" table below if I were redoing the audit's classification today. |
+| چون (because) | harf-bezan=chon · finglish-subs=choon | **`chon`** (Author decision — short و, reviewed) | finglish-subs | **Correction (2026-11-25)**: previously resolved to `chūn` (long) on the claim that `toMacron` proves `chon`/`choon` are just two spellings of the same long vowel — that claim was wrong. It assumed بare `o` for و is always long, which the author has since confirmed is false: و can be genuinely *short*, and finglish spelling generally follows pronunciation rather than being a casual long-vowel shortcut. The author confirmed چون is short here too (same as بخورم below), so finglish-subs' `choon` is the one to drop, and `vowelSlots.js`/`toMacron` now treat a bare 'o' for و as honestly ambiguous rather than confidently long — see the "و's short vowel" note under Summary. |
 | و (and) | harf-bezan=o (colloquial) · finglish-subs=va (formal) | both, as a register pair | — | Not a bug — see `SPEC.md` §2. This is the canonical example of the register field: `o` is `register: "colloquial"`, `va` is `register: "formal"`, same lemma. |
 
 ## Style only, not a bug (already covered by `SPEC.md`'s canonical/ASCII rules)
@@ -55,9 +55,9 @@ explained by one of the conventions §1 of `SPEC.md` settles:
 - 3 homographs, cleanly separated by gloss (high confidence on the split).
 - 1 of those 3 had a nested real spelling disagreement (بره's verb sense) —
   resolved by the author to `bereh`.
-- 4 settled by author decision, ready for Phase 2 (چشم, غذا, برم, بخورم).
-- 2 flagged `needs native review`, with a best guess to use meanwhile
-  (دروغ → `dorūgh`, چون → `chūn`).
+- 5 settled by author decision, ready for Phase 2 (چشم, غذا, برم, بخورم, چون).
+- 1 flagged `needs native review`, with a best guess to use meanwhile
+  (دروغ → `dorūgh`).
 - 1 genuine register pair, not a bug (و).
 - 5 explained entirely by canonical/ASCII conventions already in `SPEC.md`.
 
@@ -65,4 +65,30 @@ None of these are marked `reviewed: true` in the sense `CLAUDE.md` means —
 that flag is reserved for the author's own native-speaker check of the
 *lexicon entry itself* when Phase 2 builds the seed data. "Author decision"
 above means the author chose which spelling the seed lexicon should carry;
-it doesn't pre-empt that later review.
+it doesn't pre-empt that later review. (بخورم and چون are the exception:
+the author's own explanation in conversation of *why* - genuine short و,
+not a spelling convention - is itself the native-speaker check, so both
+are marked `reviewed: true` in `reconciled-entries.mjs`.)
+
+**و's short vowel (2026-11-25)**: found via harf-bezan's `lexicon-audit`
+script (added when wiring persian-core into harf-bezan) flagging بخورم and
+و as diverging from the lexicon. The real cause wasn't a data quirk in
+either entry — `vowelSlots.js` had no short-vowel option for و at all, so
+a bare `'o'` was unconditionally read as long. That's wrong for genuinely
+short words like بخورم, and it cuts the other way too: اومدم above is
+harf-bezan's casual single-letter spelling of a *long* vowel, using the
+identical `'o'`. Fixed by giving و an honest short/long ambiguity (same
+shape as ا's existing short-carrier-vs-long-ā ambiguity) instead of a
+blanket rule — `toMacron` now flags `ambiguous: true` for a bare `'o'`
+rather than confidently guessing long.
+
+Widening that ambiguity check surfaced three of noghteh's own words as
+newly ambiguous too (not just harf-bezan's) — خورشید "Khorshīd" (sun), دو
+"Do" (two), and دوشنبه "Doshanbeh" (Monday) — so "noghteh's own data never
+needs this" turned out to be wrong as well. (An earlier pass of the fix
+also wrongly flagged 9 more ع/ا-initial words from a separate bug in the
+same change — a cosmetic tie between a word-initial carrier reading and a
+silent-plus-generic-slot reading that always render identically; fixed
+before this review, see the commit history.) The author confirmed all
+three are genuinely short: `khorshīd`, `do`, `doshanbeh` — added to
+`reconciled-entries.mjs`, `reviewed: true`, same basis as بخورم/چون above.

@@ -8,7 +8,7 @@
 // `flag` (optional) explains why an entry still needs native review, for
 // scripts/build-seed.mjs to carry into src/lexicon/seed.notes.md.
 
-export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'دروغ', 'چون', 'و'];
+export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه'];
 
 export const RECONCILED_ENTRIES = [
   // --- homographs (docs/RECONCILIATION.md "Homographs") ---
@@ -111,7 +111,7 @@ export const RECONCILED_ENTRIES = [
     register: 'colloquial',
     pos: 'verb',
     gloss: '(that) I eat',
-    reviewed: false,
+    reviewed: true, // author confirmed: و here is genuinely short, not an ASCII stand-in for long ū
     parts: [
       { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
       { fin: 'khor', role: 'stem', gloss: 'eat' },
@@ -131,13 +131,12 @@ export const RECONCILED_ENTRIES = [
   },
   {
     persian: 'چون',
-    canonical: 'chūn',
+    canonical: 'chon',
     register: 'colloquial',
     pos: 'conjunction',
     gloss: 'because',
-    reviewed: false,
+    reviewed: true, // author confirmed: same genuine short و as بخورم, not long
     sources: { harfBezan: 'l06-21' },
-    flag: "و length not native-verified - revised from an earlier 'chon' guess to match how toMacron treats every other o-for-و word (see docs/RECONCILIATION.md)",
   },
   {
     persian: 'و',
@@ -155,5 +154,34 @@ export const RECONCILED_ENTRIES = [
     gloss: 'and',
     reviewed: false,
     sources: { harfBezan: 'l06-29' },
+  },
+  // --- و short/long corrections, found by harf-bezan's lexicon-audit tool
+  // widening alignVowels's و ambiguity (2026-11-25, see RECONCILIATION.md) ---
+  {
+    persian: 'خورشید',
+    canonical: 'khorshīd',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'sun',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 43 },
+  },
+  {
+    persian: 'دو',
+    canonical: 'do',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'two',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 217 },
+  },
+  {
+    persian: 'دوشنبه',
+    canonical: 'doshanbeh',
+    register: 'formal',
+    pos: 'noun',
+    gloss: 'Monday',
+    reviewed: true, // author confirmed: short و
+    sources: { noghteh: 279 },
   },
 ];
