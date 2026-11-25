@@ -183,8 +183,19 @@ export const alignVowels = (persian, transliteration) => {
   // Two alignments can tie on slot count but still disagree on how a
   // *written* letter reads (e.g. و's bare 'o': long vs short, same
   // consumed input) - that's a real ambiguity too, not just where the
-  // unwritten short vowels land, so the key covers the whole shape.
-  const key = (a) => JSON.stringify([a.letters, a.slots]);
+  // unwritten short vowels land, so the key covers letters too, not just
+  // slots. But 'carrier' (a word-initial ا/ع consuming its own vowel
+  // directly) and 'silent' (the same vowel instead landing as a generic
+  // slot on that same letter) always render to the identical canonical
+  // string - toMacron treats a carrier's slot and a plain slot the same
+  // way - so that specific pairing is normalised away here, or every
+  // ع/ا-initial word with a short vowel would falsely show as ambiguous.
+  // A carrier's own latin (its vowel letter) plays no part in rendering -
+  // macron.js takes the vowel from its slot, same as a plain silent letter
+  // would - so it has to collapse to the exact same shape as 'silent', not
+  // just the same kind label, or the stray latin keeps them looking distinct.
+  const normaliseForTie = (l) => (l.kind === 'carrier' ? { kind: 'silent', latin: '' } : l);
+  const key = (a) => JSON.stringify([a.letters.map(normaliseForTie), a.slots]);
   const distinct = new Set(best.map(key));
   return { ok: true, ...best[0], ambiguous: distinct.size > 1 };
 };
