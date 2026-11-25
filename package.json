@@ -11,6 +11,7 @@
     }
   },
   "scripts": {
+    "prepare": "tsup",
     "build": "tsup",
     "lint": "eslint .",
     "test": "vitest",
