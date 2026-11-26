@@ -788,7 +788,7 @@
   },
   {
     "persian": "بخور",
-    "canonical": "bokhūr",
+    "canonical": "bokhor",
     "register": "formal",
     "pos": "other",
     "gloss": "eat!",
@@ -2701,7 +2701,7 @@
   },
   {
     "persian": "خورد",
-    "canonical": "khūrd",
+    "canonical": "khord",
     "register": "formal",
     "pos": "other",
     "gloss": "ate",
@@ -2709,7 +2709,7 @@
   },
   {
     "persian": "خوردم",
-    "canonical": "khūrdam",
+    "canonical": "khordam",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "I ate",
@@ -2732,7 +2732,7 @@
   },
   {
     "persian": "خوردن",
-    "canonical": "khūrdan",
+    "canonical": "khordan",
     "register": "formal",
     "pos": "verb",
     "gloss": "to eat/drink",
@@ -5865,7 +5865,7 @@
   },
   {
     "persian": "می‌خورم",
-    "canonical": "mīkhūram",
+    "canonical": "mīkhoram",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "I eat / I'm eating",
@@ -6106,7 +6106,7 @@
   },
   {
     "persian": "نخوردم",
-    "canonical": "nakhūrdam",
+    "canonical": "nakhordam",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "not + ate (past stem) + I",
@@ -6672,7 +6672,7 @@
   },
   {
     "persian": "نمی‌خورم",
-    "canonical": "nemīkhūram",
+    "canonical": "nemīkhoram",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "I don't eat / I'm not eating",

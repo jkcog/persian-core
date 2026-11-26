@@ -10,6 +10,7 @@
 
 export const RECONCILED_KEYS = [
   'بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'بخور', 'بخوری', 'بخوره', 'بخورن', 'بخوریم',
+  'خورد', 'خوردم', 'خوردن', 'می‌خورم', 'نخوردم', 'نمی‌خورم',
   'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه',
 ];
 
@@ -124,7 +125,7 @@ export const RECONCILED_ENTRIES = [
   },
   {
     persian: 'بخور',
-    canonical: 'bokhūr',
+    canonical: 'bokhor',
     register: 'formal',
     pos: 'other',
     gloss: 'eat!',
@@ -194,6 +195,84 @@ export const RECONCILED_ENTRIES = [
       { fin: 'im', role: 'ending', gloss: 'we' },
     ],
     sources: { harfBezan: 'l02-32' },
+  },
+  // Found going the other direction: once خوردن's و was confirmed short via
+  // بخورم, every other خوردن form still carrying the long reading needed the
+  // same fix - these had no بـ prefix to begin with, so they weren't part of
+  // the بخور*-family sweep above. خوردم/نخوردم's own `parts.stem` already
+  // said 'khord' (short) even while `canonical` still said the long form -
+  // an internal inconsistency in the entry itself, not just a guess.
+  {
+    persian: 'خورد',
+    canonical: 'khord',
+    register: 'formal',
+    pos: 'other',
+    gloss: 'ate',
+    reviewed: false,
+  },
+  {
+    persian: 'خوردم',
+    canonical: 'khordam',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: 'I ate',
+    reviewed: false,
+    parts: [
+      { fin: 'khord', role: 'stem', gloss: 'ate (past stem)' },
+      { fin: 'am', role: 'ending', gloss: 'I' },
+    ],
+    sources: { harfBezan: 'l04-22' },
+  },
+  {
+    persian: 'خوردن',
+    canonical: 'khordan',
+    register: 'formal',
+    pos: 'verb',
+    gloss: 'to eat/drink',
+    reviewed: false,
+  },
+  {
+    persian: 'می‌خورم',
+    canonical: 'mīkhoram',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: "I eat / I'm eating",
+    reviewed: false,
+    parts: [
+      { fin: 'mi', role: 'prefix', gloss: 'present (replaces be-)' },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'am', role: 'ending', gloss: 'I' },
+    ],
+    sources: { harfBezan: 'l03-05' },
+  },
+  {
+    persian: 'نخوردم',
+    canonical: 'nakhordam',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: 'not + ate (past stem) + I',
+    reviewed: false,
+    parts: [
+      { fin: 'na', role: 'neg', gloss: 'not' },
+      { fin: 'khord', role: 'stem', gloss: 'ate (past stem)' },
+      { fin: 'am', role: 'ending', gloss: 'I' },
+    ],
+    sources: { harfBezan: 'l04-23' },
+  },
+  {
+    persian: 'نمی‌خورم',
+    canonical: 'nemīkhoram',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: "I don't eat / I'm not eating",
+    reviewed: false,
+    parts: [
+      { fin: 'ne', role: 'neg', gloss: 'not' },
+      { fin: 'mi', role: 'prefix', gloss: 'present (replaces be-)' },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'am', role: 'ending', gloss: 'I' },
+    ],
+    sources: { harfBezan: 'l03-20' },
   },
   {
     persian: 'دروغ',
