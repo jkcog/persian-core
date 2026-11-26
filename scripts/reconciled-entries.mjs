@@ -8,7 +8,7 @@
 // `flag` (optional) explains why an entry still needs native review, for
 // scripts/build-seed.mjs to carry into src/lexicon/seed.notes.md.
 
-export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه'];
+export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'بخور', 'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه'];
 
 export const RECONCILED_ENTRIES = [
   // --- homographs (docs/RECONCILIATION.md "Homographs") ---
@@ -118,6 +118,15 @@ export const RECONCILED_ENTRIES = [
       { fin: 'am', role: 'ending', gloss: 'I' },
     ],
     sources: { harfBezan: 'l04-32' },
+  },
+  {
+    persian: 'بخور',
+    canonical: 'bokhūr',
+    register: 'formal',
+    pos: 'other',
+    gloss: 'eat!',
+    reviewed: false,
+    flag: "build-seed had taken this straight from finglish-subs' own (buggy) bekhor with no sources - same be-/bo- allomorphy already settled for بخورم below (bokhor-, not bekhor-), just never applied to this sibling form",
   },
   {
     persian: 'دروغ',
