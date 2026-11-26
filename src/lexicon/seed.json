@@ -824,7 +824,7 @@
   },
   {
     "persian": "بخورن",
-    "canonical": "bokhūran",
+    "canonical": "bokhoran",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "'to' (subjunctive) + eat + they",
@@ -852,7 +852,7 @@
   },
   {
     "persian": "بخوره",
-    "canonical": "bokhūreh",
+    "canonical": "bokhoreh",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "'to' (subjunctive) + eat + he/she",
@@ -880,7 +880,7 @@
   },
   {
     "persian": "بخوری",
-    "canonical": "bokhūrī",
+    "canonical": "bokhorī",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "(that) you eat",
@@ -908,7 +908,7 @@
   },
   {
     "persian": "بخوریم",
-    "canonical": "bokhūrīm",
+    "canonical": "bokhorīm",
     "register": "colloquial",
     "pos": "verb",
     "gloss": "'to' (subjunctive) + eat + we",

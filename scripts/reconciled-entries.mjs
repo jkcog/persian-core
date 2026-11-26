@@ -8,7 +8,10 @@
 // `flag` (optional) explains why an entry still needs native review, for
 // scripts/build-seed.mjs to carry into src/lexicon/seed.notes.md.
 
-export const RECONCILED_KEYS = ['بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'بخور', 'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه'];
+export const RECONCILED_KEYS = [
+  'بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'بخور', 'بخوری', 'بخوره', 'بخورن', 'بخوریم',
+  'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه',
+];
 
 export const RECONCILED_ENTRIES = [
   // --- homographs (docs/RECONCILIATION.md "Homographs") ---
@@ -127,6 +130,70 @@ export const RECONCILED_ENTRIES = [
     gloss: 'eat!',
     reviewed: false,
     flag: "build-seed had taken this straight from finglish-subs' own (buggy) bekhor with no sources - same be-/bo- allomorphy already settled for بخورم below (bokhor-, not bekhor-), just never applied to this sibling form",
+  },
+  // The rest of خوردن's colloquial paradigm (بخوری/بخوره/بخورن/بخوریم) had
+  // the same bug one level deeper: build-seed's generic toMacron pass read
+  // their bare 'o' as the long vowel by default, contradicting the author's
+  // own already-settled, reviewed:true call on بخورم right above - that
+  // their و is genuinely short. Fixed to match; the person-ending vowel
+  // (-ī in بخوری/بخوریم) is untouched, since that's a separate, wider
+  // question about whether ی person-endings should be long at all (flagged
+  // for the author, not decided here).
+  {
+    persian: 'بخوری',
+    canonical: 'bokhorī',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: '(that) you eat',
+    reviewed: false,
+    parts: [
+      { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'i', role: 'ending', gloss: 'you' },
+    ],
+    sources: { harfBezan: 'l02-10' },
+  },
+  {
+    persian: 'بخوره',
+    canonical: 'bokhoreh',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: "'to' (subjunctive) + eat + he/she",
+    reviewed: false,
+    parts: [
+      { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'e', role: 'ending', gloss: 'he/she' },
+    ],
+    sources: { harfBezan: 'l02-23' },
+  },
+  {
+    persian: 'بخورن',
+    canonical: 'bokhoran',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: "'to' (subjunctive) + eat + they",
+    reviewed: false,
+    parts: [
+      { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'an', role: 'ending', gloss: 'they' },
+    ],
+    sources: { harfBezan: 'l02-35' },
+  },
+  {
+    persian: 'بخوریم',
+    canonical: 'bokhorīm',
+    register: 'colloquial',
+    pos: 'verb',
+    gloss: "'to' (subjunctive) + eat + we",
+    reviewed: false,
+    parts: [
+      { fin: 'bo', role: 'prefix', gloss: "'to' (subjunctive)" },
+      { fin: 'khor', role: 'stem', gloss: 'eat' },
+      { fin: 'im', role: 'ending', gloss: 'we' },
+    ],
+    sources: { harfBezan: 'l02-32' },
   },
   {
     persian: 'دروغ',

@@ -33,6 +33,7 @@ for now") — the guess is mine, unverified, and the flag stays.
 | برم ((that) I go) | harf-bezan=beram · finglish-subs=baram | `beram` (Author decision — proceed) | finglish-subs | Medium-high — harf-bezan's own subjunctive paradigm for this verb is consistently e-stem (بره=bere, بریم=berim, بری=beri would follow); finglish-subs' "baram" is the outlier. |
 | بخورم ((that) I eat) | harf-bezan=bokhoram · finglish-subs=bekhoram | `bokhoram` (Author decision) | finglish-subs | Author's own native intuition settles this one — "bokhoram feels correct." Also consistent with be-/bo- being an allomorph that surfaces as bo- before this stem (bokhor-, boro-, vs. bekon-, bezan- elsewhere); `bekhoram` is the one to drop. |
 | بخور (eat!) | finglish-subs=bekhor, no other source | `bokhūr` — **needs native review** | finglish-subs | Not independently audited; added later (2026-11-26) when wiring persian-core into finglish-subs surfaced that this entry had been pulled in verbatim from finglish-subs' own bekhor with no reconciliation, unlike its بخورم sibling just above. Same stem, same be-/bo- allomorphy already decided there — flagged rather than marked reviewed since that decision was about بخورم specifically, not this form. |
+| بخوری/بخوره/بخورن/بخوریم (rest of خوردن's colloquial paradigm) | harf-bezan's own forms, build-seed read bare 'o' as long by default | `bokhorī`/`bokhoreh`/`bokhoran`/`bokhorīm` — **needs native review** | — | Same gap one level deeper: build-seed's generic pass never re-checked these against the already-settled بخورم decision (short و), so they'd drifted to the long reading again. Fixed the stem vowel to match; left بخوری/بخوریم's person-ending ی alone, since whether ی person-endings are long at all is a separate, wider question (see "ی person-endings" below) this pass didn't settle. |
 | دروغ (lie) | noghteh=Dorūgh · finglish-subs=dorogh | Best guess: **`dorūgh`** (long ū) — **needs native review** | finglish-subs (tentatively) | Low-medium. دروغ is widely said with a long vowel (dorūgh/"doroogh"), matching noghteh; finglish-subs' short "dorogh" is my tentative pick for the error, but I'm not confident enough to mark this reviewed. |
 | چون (because) | harf-bezan=chon · finglish-subs=choon | **`chon`** (Author decision — short و, reviewed) | finglish-subs | **Correction (2026-11-25)**: previously resolved to `chūn` (long) on the claim that `toMacron` proves `chon`/`choon` are just two spellings of the same long vowel — that claim was wrong. It assumed بare `o` for و is always long, which the author has since confirmed is false: و can be genuinely *short*, and finglish spelling generally follows pronunciation rather than being a casual long-vowel shortcut. The author confirmed چون is short here too (same as بخورم below), so finglish-subs' `choon` is the one to drop, and `vowelSlots.js`/`toMacron` now treat a bare 'o' for و as honestly ambiguous rather than confidently long — see the "و's short vowel" note under Summary. |
 | و (and) | harf-bezan=o (colloquial) · finglish-subs=va (formal) | both, as a register pair | — | Not a bug — see `SPEC.md` §2. This is the canonical example of the register field: `o` is `register: "colloquial"`, `va` is `register: "formal"`, same lemma. |
@@ -82,6 +83,19 @@ identical `'o'`. Fixed by giving و an honest short/long ambiguity (same
 shape as ا's existing short-carrier-vs-long-ā ambiguity) instead of a
 blanket rule — `toMacron` now flags `ambiguous: true` for a bare `'o'`
 rather than confidently guessing long.
+
+**ی person-endings (2026-11-26, open)**: found while checking finglish-subs'
+verb generator against this lexicon. `vowelSlots.js` gives و a short/long
+ambiguity (see above) but never got the same treatment for ی - a
+word-final ی after a consonant is unconditionally read as long ī, with no
+short option. That default is clearly right for a real long vowel (دیدم →
+`dīdam`/"deedam"), but it's also what's producing `konī`/"konee" for کنی,
+`dūnī`/"doonee" for دونی, `tūnī`/"toonee" for تونی - the extremely common
+2nd-person-singular present-tense ending, normally said and taught "koni",
+not "konee". Unlike و's fix, this wasn't resolved here: it would change the
+spelling of a huge fraction of all verb forms (every 2sg, and plausibly
+1pl -یم and 2pl -ید endings too), so it needs the author's call before
+touching vowelSlots.js, not a guess buried in a lexicon entry.
 
 Widening that ambiguity check surfaced three of noghteh's own words as
 newly ambiguous too (not just harf-bezan's) — خورشید "Khorshīd" (sun), دو
