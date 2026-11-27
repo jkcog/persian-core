@@ -108,3 +108,17 @@ silent-plus-generic-slot reading that always render identically; fixed
 before this review, see the commit history.) The author confirmed all
 three are genuinely short: `khorshīd`, `do`, `doshanbeh` — added to
 `reconciled-entries.mjs`, `reviewed: true`, same basis as بخورم/چون above.
+
+**کندن, added with no source (2026-11-27)**: the author hit finglish-subs'
+rule-based fallback rendering کندن ("kandan", to dig/pull/pluck) as
+"kenden" — not a reconciliation bug, just a word absent from every sibling
+repo's data and from the lexicon entirely. It has no vowel letters at all
+(ک-ن-د-ن), so `toMacron` has nothing to align even if a source existed.
+Added straight to `reconciled-entries.mjs`/`seed.json` as a high-confidence
+guess (`kandan`), `reviewed: false` with a `flag`, since no native-speaker
+check happened in conversation the way بخورم/چون's did. This also doesn't
+fix می‌کنم ("I'm digging") - کَنَم and کُنَم (kardan, "I do") are true
+script-level homographs (both spelled کن with no diacritics), and kardan's
+far more common forms already own every prefixed/suffixed combination
+verbs.js generates for that spelling, so only the bare infinitive could be
+added without a collision.

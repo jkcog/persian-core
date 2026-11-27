@@ -3093,6 +3093,14 @@
     }
   },
   {
+    "persian": "کندن",
+    "canonical": "kandan",
+    "register": "formal",
+    "pos": "verb",
+    "gloss": "to dig/pull/pluck",
+    "reviewed": false
+  },
+  {
     "persian": "دوغ",
     "canonical": "dūgh",
     "register": "formal",

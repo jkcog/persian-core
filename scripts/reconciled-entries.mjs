@@ -12,6 +12,7 @@ export const RECONCILED_KEYS = [
   'بره', 'رود', 'نه', 'چشم', 'غذا', 'برم', 'بخورم', 'بخور', 'بخوری', 'بخوره', 'بخورن', 'بخوریم',
   'خورد', 'خوردم', 'خوردن', 'می‌خورم', 'نخوردم', 'نمی‌خورم',
   'دروغ', 'چون', 'و', 'خورشید', 'دو', 'دوشنبه',
+  'کندن',
 ];
 
 export const RECONCILED_ENTRIES = [
@@ -338,5 +339,19 @@ export const RECONCILED_ENTRIES = [
     gloss: 'Monday',
     reviewed: true, // author confirmed: short و
     sources: { noghteh: 279 },
+  },
+  // --- added by hand, not from any sibling repo (2026-11-27) ---
+  // کندن (kandan, "to dig/pull/pluck") has no vowel letters at all, so
+  // toMacron has nothing to align and no sibling repo has this word -
+  // without it, finglish-subs' rule-based fallback guessed "kenden"
+  // (its default filler for an unmarked short vowel is 'e', not 'a').
+  {
+    persian: 'کندن',
+    canonical: 'kandan',
+    register: 'formal',
+    pos: 'verb',
+    gloss: 'to dig/pull/pluck',
+    reviewed: false,
+    flag: 'no sibling-repo source and no vowel letters for toMacron to check - high-confidence guess, not native-verified',
   },
 ];
